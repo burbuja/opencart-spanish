@@ -1,0 +1,29 @@
+<?php
+
+$_['heading_title'] = 'Suscripción';
+$_['text_openbay'] = 'OpenBay Pro';
+$_['text_amazon'] = 'Amazon EU';
+$_['text_current_plan'] = 'Plan actual';
+$_['text_register_invite'] = '¿Aún no tienes los detalles de tu API?';
+$_['text_available_plans'] = 'Planes disponibles';
+$_['text_listings_remaining'] = 'Listings remaining';
+$_['text_listings_reserved'] = 'Los productos están siendo procesados';
+$_['text_account_status'] = 'Estado de la cuenta';
+$_['text_merchantid'] = 'ID del comerciante';
+$_['text_change_merchantid'] = 'Cambiar';
+$_['text_allowed'] = 'Permitido';
+$_['text_not_allowed'] = 'No permitido';
+$_['text_price'] = 'Precio';
+$_['text_name'] = 'Nombre';
+$_['text_description'] = 'Descripción';
+$_['text_order_frequency'] = 'Frecuencia de la importación del pedido';
+$_['text_bulk_listing'] = 'Lista masiva';
+$_['text_product_listings'] = 'Listas por mes';
+$_['column_name'] = 'Nombre';
+$_['column_description'] = 'Descripción';
+$_['column_order_frequency'] = 'Frecuencia de la importación del pedido';
+$_['column_bulk_listing'] = 'Lista masiva';
+$_['column_product_listings'] = 'Listas por mes';
+$_['column_price'] = 'Precio';
+$_['button_change_plan'] = 'Cambiar de plan';
+$_['button_register'] = 'Registro';

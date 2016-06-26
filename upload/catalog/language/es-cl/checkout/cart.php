@@ -1,0 +1,36 @@
+<?php
+
+$_['heading_title'] = 'Carro de compra';
+$_['text_success'] = 'Success: You have added <a href="%s">%s</a> to your <a href="%s">shopping cart</a>!';
+$_['text_remove'] = 'Éxito: ¡Has modificado tu carro de compras!';
+$_['text_login'] = 'Attention: You must <a href="%s">login</a> or <a href="%s">create an account</a> to view prices!';
+$_['text_items'] = '%s artículo(s) - %s';
+$_['text_points'] = 'Puntos: %s';
+$_['text_next'] = '¿Qué te gustaría hacer después?';
+$_['text_next_choice'] = 'Elige si tienes un código de descuento o puntos que quieras usar o para calcular el costo de envío.';
+$_['text_empty'] = '¡Tu carro de compras está vacío!';
+$_['text_day'] = 'día';
+$_['text_week'] = 'semana';
+$_['text_semi_month'] = 'mitad de mes';
+$_['text_month'] = 'mes';
+$_['text_year'] = 'año';
+$_['text_trial'] = '%s every %s %s for %s payments then ';
+$_['text_recurring'] = '%s cada %s %s';
+$_['text_length'] = 'para %s pagos';
+$_['text_until_cancelled'] = 'hasta que esté anulado';
+$_['text_recurring_item'] = 'Artículo recurrente';
+$_['text_payment_recurring'] = 'Perfil de pago';
+$_['text_trial_description'] = '%s every %d %s(s) for %d payment(s) then';
+$_['text_payment_description'] = '%s cada %d %s(s) para %d pago(s)';
+$_['text_payment_cancel'] = '%s every %d %s(s) until canceled';
+$_['column_image'] = 'Imagen';
+$_['column_name'] = 'Nombre del producto';
+$_['column_model'] = 'Modelo';
+$_['column_quantity'] = 'Cantidad';
+$_['column_price'] = 'Precio por unidad';
+$_['column_total'] = 'Total';
+$_['error_stock'] = '¡Los productos marcados con *** no están disponibles en la cantidad deseada o no hay existencias!';
+$_['error_minimum'] = '¡El monto mínimo del pedido para %s es de %s!';
+$_['error_required'] = '¡Se requiere %s!';
+$_['error_product'] = 'Advertncia: ¡No hay productos en tu carro!';
+$_['error_recurring_required'] = '¡Por favor selecciona un pago recurrente!';

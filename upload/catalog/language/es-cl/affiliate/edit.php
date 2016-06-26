@@ -1,0 +1,31 @@
+<?php
+
+$_['heading_title'] = 'Información de mi cuenta';
+$_['text_account'] = 'Cuenta';
+$_['text_edit'] = 'Editar la información';
+$_['text_your_details'] = 'Tus detalles personales';
+$_['text_your_address'] = 'Tu dirección';
+$_['text_success'] = 'Éxito: Tu cuenta ha sido actualizada exitosamente.';
+$_['entry_firstname'] = 'Nombres';
+$_['entry_lastname'] = 'Apellido';
+$_['entry_email'] = 'Correo electrónico';
+$_['entry_telephone'] = 'Teléfono';
+$_['entry_fax'] = 'Fax';
+$_['entry_company'] = 'Empresa';
+$_['entry_website'] = 'Sitio web';
+$_['entry_address_1'] = 'Dirección 1';
+$_['entry_address_2'] = 'Dirección 2';
+$_['entry_postcode'] = 'Código postal';
+$_['entry_city'] = 'Ciudad';
+$_['entry_country'] = 'País';
+$_['entry_zone'] = 'Región o estado';
+$_['error_exists'] = 'Aviso: ¡La dirección de correo electrónico ya está registrada!';
+$_['error_firstname'] = '¡El nombre debe tener entre 1 y 32 caracteres!';
+$_['error_lastname'] = '¡El apellido debe tener de 1 a 32 caracteres!';
+$_['error_email'] = '¡La dirección de correo electrónico no parece ser válida!';
+$_['error_telephone'] = '¡El teléfono debe tener de 3 a 32 caracteres!';
+$_['error_address_1'] = '¡La dirección 1 debe tener de 3 a 128 caracteres!';
+$_['error_city'] = 'La ciudad debe tener de 2 a 128 caracteres!';
+$_['error_country'] = '¡Por favor selecciona un país!';
+$_['error_zone'] = '¡Por favor selecciona una región o estado!';
+$_['error_postcode'] = '¡El código postal debe tener de 2 a 10 caracteres!';

@@ -1,0 +1,35 @@
+<?php
+
+$_['text_new_subject'] = '%s - Pedido %s';
+$_['text_new_greeting'] = 'Gracias por tu interés en %s productos. Se ha recibido tu pedido y se procesará una vez que el pago se haya confirmado.';
+$_['text_new_received'] = 'Has recibido un pedido.';
+$_['text_new_link'] = 'Para ver tu pedido, haz clic en el enlace más abajo:';
+$_['text_new_order_detail'] = 'Detalles del pedido';
+$_['text_new_instruction'] = 'Instrucciones';
+$_['text_new_order_id'] = 'ID del pedido:';
+$_['text_new_date_added'] = 'Fecha de alta:';
+$_['text_new_order_status'] = 'Estado del pedido:';
+$_['text_new_payment_method'] = 'Medio de pago:';
+$_['text_new_shipping_method'] = 'Método de envío:';
+$_['text_new_email'] = 'Correo electrónico:';
+$_['text_new_telephone'] = 'Teléfono:';
+$_['text_new_ip'] = 'Dirección IP:';
+$_['text_new_payment_address'] = 'Dirección de pago';
+$_['text_new_shipping_address'] = 'Dirección de envío';
+$_['text_new_products'] = 'Productos';
+$_['text_new_product'] = 'Producto';
+$_['text_new_model'] = 'Modelo';
+$_['text_new_quantity'] = 'Cantidad';
+$_['text_new_price'] = 'Precio';
+$_['text_new_order_total'] = 'Totales del pedido';
+$_['text_new_total'] = 'Total';
+$_['text_new_download'] = 'Once your payment has been confirmed you can click on the link below to access your downloadable products:';
+$_['text_new_comment'] = 'Los comentarios para tu pedido son:';
+$_['text_new_footer'] = 'Por favor responde este correo electrónico si tienes alguna pregunta.';
+$_['text_update_subject'] = '%s - Actualización del pedido %s';
+$_['text_update_order'] = 'ID del pedido:';
+$_['text_update_date_added'] = 'Fecha del pedido:';
+$_['text_update_order_status'] = 'Tu pedido ha sido actualizado al siguiente estado:';
+$_['text_update_comment'] = 'Los comentarios para tu pedido son:';
+$_['text_update_link'] = 'Para ver tu pedido, haz clic en el enlace más abajo:';
+$_['text_update_footer'] = 'Por favor responde a este mensaje si tienes alguna pregunta.';
