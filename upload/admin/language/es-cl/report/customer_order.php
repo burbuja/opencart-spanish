@@ -13,4 +13,5 @@ $_['column_total'] = 'Total';
 $_['column_action'] = 'Acción';
 $_['entry_date_start'] = 'Fecha de inicio';
 $_['entry_date_end'] = 'Fecha de fin';
+$_['entry_customer'] = 'Cliente';
 $_['entry_status'] = 'Estado del pedido';

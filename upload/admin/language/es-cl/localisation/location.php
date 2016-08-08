@@ -23,6 +23,6 @@ $_['help_geocode'] = 'Please enter your store location geocode manually.';
 $_['help_open'] = 'Llena los campos con los horarios de apertura de tu tienda.';
 $_['help_comment'] = 'Este campo es para notas especiales que te gustaría entregar al cliente. Ej. la tienda no acepta cheques.';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las ubicaciones de la tienda!';
-$_['error_name'] = '¡El nombre de la tienda debe tener al menos 1 caracter!';
+$_['error_name'] = '¡El nombre de la tienda debe tener de 3 a 32 caracteres!';
 $_['error_address'] = 'La dirección debe tener de 3 a 128 caracteres!';
 $_['error_telephone'] = '¡El teléfono debe tener de 3 a 32 caracteres!';

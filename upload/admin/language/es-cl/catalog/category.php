@@ -33,3 +33,4 @@ $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las categor�
 $_['error_name'] = '¡El nombre de la categoría debe tener de 2 a 255 caracteres!';
 $_['error_meta_title'] = '¡El título meta debe tener de 3 a 255 caracteres!';
 $_['error_keyword'] = 'SEO URL already in use!';
+$_['error_parent'] = 'The parent category you have chosen is a child of the current one!';

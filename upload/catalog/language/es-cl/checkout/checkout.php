@@ -2,13 +2,13 @@
 
 $_['heading_title'] = 'Pagar';
 $_['text_cart'] = 'Carro de compra';
-$_['text_checkout_option'] = 'Step %s: Checkout Options';
-$_['text_checkout_account'] = 'Step %s: Account &amp; Billing Details';
-$_['text_checkout_payment_address'] = 'Step %s: Billing Details';
+$_['text_checkout_option'] = 'Paso %s: Opciones de compra';
+$_['text_checkout_account'] = 'Paso %s: Cuenta y detalles de facturación';
+$_['text_checkout_payment_address'] = 'Paso %s: Detalles de facturación';
 $_['text_checkout_shipping_address'] = 'Step %s: Delivery Details';
-$_['text_checkout_shipping_method'] = 'Step %s: Delivery Method';
-$_['text_checkout_payment_method'] = 'Step %s: Payment Method';
-$_['text_checkout_confirm'] = 'Step %s: Confirm Order';
+$_['text_checkout_shipping_method'] = 'Paso %s: Método de envío';
+$_['text_checkout_payment_method'] = 'Paso %s: Medio de pago';
+$_['text_checkout_confirm'] = 'Paso %s: Confirmar el pedido';
 $_['text_modify'] = 'Modificar &raquo;';
 $_['text_new_customer'] = 'Nuevo cliente';
 $_['text_returning_customer'] = 'Cliente que vuelve';
@@ -84,4 +84,3 @@ $_['error_no_shipping'] = 'Warning: No Shipping options are available. Please <a
 $_['error_payment'] = 'Aviso: ¡Se requiere el medio de pago!';
 $_['error_no_payment'] = 'Warning: No Payment options are available. Please <a href="%s">contact us</a> for assistance!';
 $_['error_custom_field'] = '¡Se requiere %s!';
-$_['error_custom_field_validate'] = '%s invalid!';

@@ -1,6 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Pedidos';
+$_['text_success'] = 'Éxito: ¡Has modificado los pedidos!';
 $_['text_list'] = 'Lista de pedidos';
 $_['text_add'] = 'Agregar pedido';
 $_['text_edit'] = 'Editar el pedido';
@@ -71,7 +72,7 @@ $_['column_notify'] = 'Cliente notificado';
 $_['column_location'] = 'Ubicación';
 $_['column_reference'] = 'Referencia';
 $_['column_action'] = 'Acción';
-$_['column_weight'] = 'Product Weight';
+$_['column_weight'] = 'Peso del producto';
 $_['entry_store'] = 'Tienda';
 $_['entry_customer'] = 'Cliente';
 $_['entry_customer_group'] = 'Grupo de clientes';
@@ -93,9 +94,9 @@ $_['entry_product'] = 'Elegir el producto';
 $_['entry_option'] = 'Elegir opción(es)';
 $_['entry_quantity'] = 'Cantidad';
 $_['entry_to_name'] = 'Nombre del destinatario';
-$_['entry_to_email'] = 'Recipient\'s E-mail';
-$_['entry_from_name'] = 'Sender\'s Name';
-$_['entry_from_email'] = 'Sender\'s E-mail';
+$_['entry_to_email'] = 'Correo electrónico del destinatario';
+$_['entry_from_name'] = 'Nombre del remitente';
+$_['entry_from_email'] = 'Dirección de correo electrónico del remitente';
 $_['entry_theme'] = 'Tema de la tarjeta de regalo';
 $_['entry_message'] = 'Mensaje';
 $_['entry_amount'] = 'Monto';
@@ -118,4 +119,4 @@ $_['help_override'] = 'If the customers order is being blocked from changing the
 $_['error_warning'] = 'Aviso: ¡Por favor revise cuidadosamente los errores del formulario!';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los pedidos!';
 $_['error_action'] = 'Aviso: ¡No se pudo completar esta acción!';
-$_['error_filetype'] = '¡Tipo de archivo no válido!';
+$_['error_filetype'] = '¡El tipo de archivo no es válido!';

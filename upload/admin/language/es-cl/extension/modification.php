@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Modificaciones';
 $_['text_success'] = 'Éxito: ¡Has modificado las modificaciones!';
-$_['text_refresh'] = 'Whenever you enable / disable or delete a modification you need to click the refresh button to rebuild your modification cache!';
+$_['text_refresh'] = '¡Cada vez que activas, desactivas o eliminas una modificación, necesitas hacer clic en el botón refrescar para reconstruir tu caché de modificaciones!';
 $_['text_list'] = 'Lista de modificaciones';
 $_['column_name'] = 'Nombre de la modificación';
 $_['column_author'] = 'Autor';

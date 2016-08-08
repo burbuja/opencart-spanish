@@ -15,7 +15,7 @@ $_['entry_iso_code_3'] = 'Código ISO (3)';
 $_['entry_address_format'] = 'Formato de la dirección';
 $_['entry_postcode_required'] = 'Se requiere el código postal';
 $_['entry_status'] = 'Estado';
-$_['help_address_format'] = 'First Name = {firstname}<br />Last Name = {lastname}<br />Company = {company}<br />Address 1 = {address_1}<br />Address 2 = {address_2}<br />City = {city}<br />Postcode = {postcode}<br />Zone = {zone}<br />Zone Code = {zone_code}<br />Country = {country}';
+$_['help_address_format'] = 'Nombre = {firstname}<br />Apellidos = {lastname}<br />Empresa = {company}<br />Dirección 1 = {address_1}<br />Dirección 2 = {address_2}<br />Ciudad = {city}<br />Código postal = {postcode}<br />Zona = {zone}<br />Código de zona = {zone_code}<br />País = {country}';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los países!';
 $_['error_name'] = 'El nombre del país debe tener de 3 a 128 caracteres!';
 $_['error_default'] = 'Aviso: ¡No se puede eliminar este país porque está asignado actualmente como el país de la tienda predeterminada!';

@@ -32,4 +32,4 @@ $_['error_account'] = 'Aviso: ¡No se puede eliminar esta página de informació
 $_['error_checkout'] = 'Aviso: ¡No se puede eliminar esta página de información porque está asignada como los términos de compra de la tienda!';
 $_['error_affiliate'] = 'Aviso: ¡No se puede eliminar esta página de información porque está asignada como los términos del afiliado de la tienda!';
 $_['error_return'] = 'Aviso: ¡No se puede eliminar esta página de información porque está asignada como los términos de devolución de la tienda!';
-$_['error_store'] = 'Warning: This information page cannot be deleted as it is currently used by %s stores!';
+$_['error_store'] = 'Aviso: ¡No se puede eliminar esta página de información porque está siendo usada por %s tiendas!';

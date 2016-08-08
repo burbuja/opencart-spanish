@@ -8,4 +8,4 @@ $_['entry_username'] = 'Nombre de usuario';
 $_['entry_password'] = 'Contraseña';
 $_['button_login'] = 'Inicio de sesión';
 $_['error_login'] = 'No se encuentran coincidencias para esta mezcla de nombre de usuario y contraseña.';
-$_['error_token'] = 'Token de sesión inválido. Por favor vuelve a iniciar sesión.';
+$_['error_token'] = 'El token de sesión no es válido. Por favor vuelve a iniciar sesión.';

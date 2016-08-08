@@ -9,7 +9,6 @@ $_['text_choose'] = 'Elige';
 $_['text_select'] = 'Selección';
 $_['text_radio'] = 'Radio';
 $_['text_checkbox'] = 'Casilla de verificación';
-$_['text_image'] = 'Imagen';
 $_['text_input'] = 'Ingreso';
 $_['text_text'] = 'Texto';
 $_['text_textarea'] = 'Área de texto';

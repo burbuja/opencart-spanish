@@ -16,5 +16,5 @@ $_['entry_image'] = 'Imagen';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los anuncios!';
-$_['error_name'] = 'Banner Name must be between 3 and 64 characters!';
+$_['error_name'] = '¡El nombre del anuncio debe tener de 3 a 64 caracteres!';
 $_['error_title'] = '¡El título del anuncio debe tener de 2 a 64 caracteres!';

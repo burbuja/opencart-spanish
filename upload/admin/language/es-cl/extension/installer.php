@@ -1,6 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Instalador de extensiones';
+$_['text_upload'] = 'Upload your extensions';
 $_['text_success'] = 'Success: The extension has been installed!';
 $_['text_unzip'] = '¡Extrayendo archivos!';
 $_['text_ftp'] = '¡Copiando archivos!';
@@ -16,7 +17,7 @@ $_['help_upload'] = 'Requires a modification file with extension ".ocmod.zip" or
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las extensiones!';
 $_['error_temporary'] = 'Aviso: Hay algunos archivos temporales que requieren su eliminación. ¡Haz clic en el botón limpiar para eliminarlos!';
 $_['error_upload'] = '¡No se pudo cargar el archivo!';
-$_['error_filetype'] = '¡Tipo de archivo no válido!';
+$_['error_filetype'] = '¡El tipo de archivo no es válido!';
 $_['error_file'] = '¡No se pudo encontrar el archivo!';
 $_['error_unzip'] = '¡No se pudo abrir el archivo zip!';
 $_['error_code'] = '¡La modificación requiere un código ID único!';
@@ -25,6 +26,6 @@ $_['error_directory'] = '¡No se pudo encontrar el directorio que contiene archi
 $_['error_ftp_status'] = 'Se necesita habilitar el FTP en las preferencias';
 $_['error_ftp_connection'] = 'No se pudo conectar como %s:%s';
 $_['error_ftp_login'] = 'No se pudo iniciar sesión como %s';
-$_['error_ftp_root'] = 'Could not set root directory as %s';
+$_['error_ftp_root'] = 'No se pudo establecer el directorio raíz como %s';
 $_['error_ftp_directory'] = 'No se pudo cambiar al directorio %s';
 $_['error_ftp_file'] = 'No se pudo cargar el archivo %s';

@@ -61,6 +61,4 @@ $_['error_address_1'] = '¡La dirección 1 debe tener de 3 a 128 caracteres!';
 $_['error_city'] = 'La ciudad debe tener de 2 a 128 caracteres!';
 $_['error_postcode'] = '¡El código postal debe tener de 2 a 10 caracteres para este país!';
 $_['error_country'] = '¡Por favor selecciona un país!';
-$_['error_zone'] = '¡Por favor selecciona una región o estado!';
-$_['error_custom_field'] = '¡Se requiere %s!';
-$_['error_custom_field_validate'] = '%s invalid!';
+$_['error_zone'] = '¡Se requiere %s!';

@@ -8,4 +8,4 @@ $_['entry_password'] = 'Contraseña';
 $_['entry_confirm'] = 'Confirmar';
 $_['error_password'] = 'La contraseña debe tener de 4 a 20 caracteres!';
 $_['error_confirm'] = '¡La contraseña y la confirmación de la contraseña no coinciden!';
-$_['error_code'] = 'Password reset code is invalid or was used previously!';
+$_['error_code'] = '¡El código para restablecer la contraseña no es válido o ya se usó previamente!';

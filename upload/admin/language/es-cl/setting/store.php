@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Tiendas';
 $_['text_settings'] = 'Preferencias';
-$_['text_success'] = 'Success: You have modified Stores!';
+$_['text_success'] = 'Éxito: ¡Has modificado las tiendas!';
 $_['text_list'] = 'Lista de tiendas';
 $_['text_add'] = 'Agregar tienda';
 $_['text_edit'] = 'Editar la tienda';
@@ -69,13 +69,13 @@ $_['help_customer_price'] = 'Mostrar los precios solo cuando el cliente haya ini
 $_['help_account'] = 'Fuerza a que la gente esté de acuerdo con los términos antes de poder crearse una cuenta.';
 $_['help_checkout_guest'] = 'Permitir a los clientes pagar sin crear una cuenta. Esto no estará disponible cuando un producto descargable se encuentre en el carro de compra.';
 $_['help_checkout'] = 'Forces people to agree to terms before an a customer can checkout.';
-$_['help_order_status'] = 'Set the default order status when an order is processed.';
+$_['help_order_status'] = 'Establece el estado predeterminado del pedido al procesarse un pedido.';
 $_['help_stock_display'] = 'Mostrar la cantidad de existencias en la página del producto.';
 $_['help_stock_checkout'] = 'Permitir que los clientes realicen pagos por productos que no están disponibles.';
 $_['help_icon'] = 'El ícono debería ser un PNG de 16px x 16px.';
 $_['help_secure'] = 'Para usar SSL revisa con tu alojamiento web si está instalado un certificado SSL.';
 $_['error_warning'] = 'Aviso: ¡Por favor revise cuidadosamente los errores del formulario!';
-$_['error_permission'] = 'Warning: You do not have permission to modify stores!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las tiendas!';
 $_['error_url'] = '¡Se requiere la URL de la tienda!';
 $_['error_meta_title'] = '¡El título debe tener de 3 a 32 caracteres!';
 $_['error_name'] = '¡El nombre de la tienda debe tener de 3 a 32 caracteres!';

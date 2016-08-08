@@ -36,7 +36,6 @@ $_['error_postcode'] = '¡El código postal debe tener de 2 a 10 caracteres!';
 $_['error_country'] = '¡Por favor selecciona un país!';
 $_['error_zone'] = '¡Por favor selecciona una región o estado!';
 $_['error_custom_field'] = '¡Se requiere %s!';
-$_['error_custom_field_validate'] = '%s invalid!';
 $_['error_password'] = 'La contraseña debe tener de 4 a 20 caracteres!';
 $_['error_confirm'] = '¡La confirmación de la contraseña no coincide con la contraseña!';
 $_['error_agree'] = 'Aviso: ¡Debes estar de acuerdo con el %s!';

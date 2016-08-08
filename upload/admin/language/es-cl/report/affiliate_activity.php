@@ -1,6 +1,6 @@
 <?php
 
-$_['heading_title'] = 'Affiliate Activity Report';
+$_['heading_title'] = 'Informe de actividad del afiliado';
 $_['text_list'] = 'Lista de la actividad del afiliado';
 $_['text_edit'] = '<a href="affiliate_id=%d">%s</a> updated their account details.';
 $_['text_forgotten'] = '<a href="affiliate_id=%d">%s</a> requested a new password.';

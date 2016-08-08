@@ -1,8 +1,8 @@
 <?php
 
-$_['heading_title'] = 'Recurring Orders';
+$_['heading_title'] = 'Pedidos recurrentes';
 $_['text_success'] = 'Éxito: ¡Has modificado los perfiles recurrentes!';
-$_['text_list'] = 'Recurring Order List';
+$_['text_list'] = 'Lista de pedidos recurrentes';
 $_['text_recurring_detail'] = 'Recurring Details';
 $_['text_order_detail'] = 'Detalles del pedido';
 $_['text_product_detail'] = 'Detalles del producto';
@@ -11,7 +11,7 @@ $_['text_order_recurring_id'] = 'ID de pedidos recurrentes';
 $_['text_reference'] = 'Referencia del pago';
 $_['text_recurring_name'] = 'Perfil recurrente';
 $_['text_recurring_description'] = 'Descripción';
-$_['text_recurring_status'] = 'Recurring Status';
+$_['text_recurring_status'] = 'Estado para recurrente';
 $_['text_payment_method'] = 'Medio de pago';
 $_['text_order_id'] = 'ID del pedido';
 $_['text_customer'] = 'Cliente';
@@ -43,7 +43,7 @@ $_['text_transaction_suspended_failed'] = 'Suspendido desde que falló el pago';
 $_['text_transaction_outstanding_failed'] = 'Falló el pago extraordinario';
 $_['text_transaction_expired'] = 'Expirado';
 $_['text_cancelled'] = 'Los pagos recurrentes han sido cancelados';
-$_['column_order_recurring_id'] = 'Recurring ID';
+$_['column_order_recurring_id'] = 'ID recurrente';
 $_['column_order_id'] = 'ID del pedido';
 $_['column_reference'] = 'Referencia del pago';
 $_['column_customer'] = 'Cliente';
@@ -52,7 +52,7 @@ $_['column_status'] = 'Estado';
 $_['column_amount'] = 'Monto';
 $_['column_type'] = 'Tipo';
 $_['column_action'] = 'Acción';
-$_['entry_order_recurring_id'] = 'Recurring ID';
+$_['entry_order_recurring_id'] = 'ID recurrente';
 $_['entry_order_id'] = 'ID del pedido';
 $_['entry_reference'] = 'Referencia del pago';
 $_['entry_customer'] = 'Cliente';

@@ -29,4 +29,3 @@ $_['error_city'] = 'La ciudad debe tener de 2 a 128 caracteres!';
 $_['error_country'] = '¡Por favor selecciona un país!';
 $_['error_zone'] = '¡Por favor selecciona una región o estado!';
 $_['error_custom_field'] = '¡Se requiere %s!';
-$_['error_custom_field_validate'] = '%s invalid!';

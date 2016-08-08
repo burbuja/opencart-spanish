@@ -16,4 +16,3 @@ $_['error_lastname'] = '¡El apellido debe tener de 1 a 32 caracteres!';
 $_['error_email'] = '¡La dirección de correo electrónico no parece ser válida!';
 $_['error_telephone'] = '¡El teléfono debe tener de 3 a 32 caracteres!';
 $_['error_custom_field'] = '¡Se requiere %s!';
-$_['error_custom_field_validate'] = '%s invalid!';

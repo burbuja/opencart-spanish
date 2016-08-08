@@ -20,5 +20,5 @@ $_['error_upload'] = '¡Se requiere el archivo a cargar!';
 $_['error_filename'] = '¡El nombre de archivo debe tener de 3 a 128 caracteres!';
 $_['error_exists'] = '¡El archivo no existe!';
 $_['error_mask'] = '¡La máscara debe tener de 3 a 128 caracteres!';
-$_['error_filetype'] = '¡Tipo de archivo no válido!';
+$_['error_filetype'] = '¡El tipo de archivo no es válido!';
 $_['error_product'] = 'Aviso: ¡No se puede eliminar esta descarga porque está asignada a %s productos!';
