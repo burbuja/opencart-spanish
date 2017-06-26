@@ -3,7 +3,8 @@
 $_['heading_title'] = 'Pedidos recurrentes';
 $_['text_success'] = 'Éxito: ¡Has modificado los perfiles recurrentes!';
 $_['text_list'] = 'Lista de pedidos recurrentes';
-$_['text_recurring_detail'] = 'Recurring Details';
+$_['text_filter'] = 'Filtro';
+$_['text_recurring_detail'] = 'Detalles recurrentes';
 $_['text_order_detail'] = 'Detalles del pedido';
 $_['text_product_detail'] = 'Detalles del producto';
 $_['text_transaction'] = 'Transacciones';

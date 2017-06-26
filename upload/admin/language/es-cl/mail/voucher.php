@@ -1,5 +1,6 @@
 <?php
 
+$_['text_success'] = 'Éxito: ¡Has modificado las tarjetas de regalo!';
 $_['text_subject'] = 'You have been sent a gift certificate from %s';
 $_['text_greeting'] = 'Felicitaciones, has recibido una tarjeta de regalo de %s';
 $_['text_from'] = 'Esta tarjeta de regalo ha sido enviada a ti por %s';

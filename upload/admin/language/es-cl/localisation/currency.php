@@ -5,7 +5,7 @@ $_['text_success'] = 'Éxito: ¡Has modificado las divisas!';
 $_['text_list'] = 'Lista de divisas';
 $_['text_add'] = 'Agregar divisa';
 $_['text_edit'] = 'Editar la divisa';
-$_['text_iso'] = 'You can find a full list of ISO currency codes and settings <a href="http://www.xe.com/iso4217.php" target="_blank">here</a>.';
+$_['text_iso'] = 'You can find a full list of ISO currency codes and settings <a href="http://www.xe.com/iso4217.php" target="_blank" class="alert-link">here</a>.';
 $_['column_title'] = 'Título de la divisa';
 $_['column_code'] = 'Código';
 $_['column_value'] = 'Valor';

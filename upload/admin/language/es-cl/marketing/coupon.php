@@ -7,6 +7,7 @@ $_['text_add'] = 'Agregar cupón';
 $_['text_edit'] = 'Editar cupón';
 $_['text_percent'] = 'Porcentaje';
 $_['text_amount'] = 'Monto fijo';
+$_['text_coupon'] = 'Coupon History';
 $_['column_name'] = 'Nombre del cupón';
 $_['column_code'] = 'Código';
 $_['column_discount'] = 'Descuento';

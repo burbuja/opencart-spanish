@@ -5,6 +5,7 @@ $_['text_success'] = 'Éxito: ¡Has modificado los comentarios!';
 $_['text_list'] = 'Lista de revisión';
 $_['text_add'] = 'Agregar comentario';
 $_['text_edit'] = 'Editar el comentario';
+$_['text_filter'] = 'Filtro';
 $_['column_product'] = 'Producto';
 $_['column_author'] = 'Autor';
 $_['column_rating'] = 'Preferencia';

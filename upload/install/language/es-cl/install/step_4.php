@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Instalación completa';
-$_['text_step_4'] = 'Ready to start selling!';
+$_['text_step_4'] = '¡Listo para comenzar a vender!';
 $_['text_catalog'] = 'Ir a tu tienda en línea';
 $_['text_admin'] = 'Inicia sesión en la administración';
 $_['text_loading'] = 'Cargando módulos...';

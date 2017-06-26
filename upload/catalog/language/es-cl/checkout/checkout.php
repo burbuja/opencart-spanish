@@ -49,7 +49,6 @@ $_['entry_confirm'] = 'Confirmar la contraseña';
 $_['entry_firstname'] = 'Nombres';
 $_['entry_lastname'] = 'Apellido';
 $_['entry_telephone'] = 'Teléfono';
-$_['entry_fax'] = 'Fax';
 $_['entry_address'] = 'Elegir la dirección';
 $_['entry_company'] = 'Empresa';
 $_['entry_customer_group'] = 'Grupo de clientes';

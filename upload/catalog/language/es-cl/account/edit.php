@@ -9,7 +9,6 @@ $_['entry_firstname'] = 'Nombres';
 $_['entry_lastname'] = 'Apellido';
 $_['entry_email'] = 'Correo electrónico';
 $_['entry_telephone'] = 'Teléfono';
-$_['entry_fax'] = 'Fax';
 $_['error_exists'] = 'Aviso: ¡La dirección de correo electrónico ya está registrada!';
 $_['error_firstname'] = '¡El nombre debe tener entre 1 y 32 caracteres!';
 $_['error_lastname'] = '¡El apellido debe tener de 1 a 32 caracteres!';

@@ -5,6 +5,7 @@ $_['text_success'] = 'Éxito: ¡Has modificado el seguimiento de mercadeo!';
 $_['text_list'] = 'Lista de seguimiento de mercadeo';
 $_['text_add'] = 'Agregar seguimiento de mercadeo';
 $_['text_edit'] = 'Editar el seguimiento de mercadeo';
+$_['text_filter'] = 'Filtro';
 $_['column_name'] = 'Nombre de la campaña';
 $_['column_code'] = 'Código';
 $_['column_clicks'] = 'Clics';
