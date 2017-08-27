@@ -1,10 +1,10 @@
 <?php
 
-$_['heading_title'] = 'Pagos recurrentes';
+$_['heading_title'] = 'Pagos frecuentes';
 $_['text_account'] = 'Cuenta';
 $_['text_recurring'] = 'Recurring Payment Information';
-$_['text_recurring_detail'] = 'Detalles de pago recurrente';
-$_['text_order_recurring_id'] = 'ID recurrente:';
+$_['text_recurring_detail'] = 'Detalles de pago frecuente';
+$_['text_order_recurring_id'] = 'ID frecuente:';
 $_['text_date_added'] = 'Fecha de alta:';
 $_['text_status'] = 'Estado:';
 $_['text_payment_method'] = 'Medio de pago:';
@@ -30,15 +30,15 @@ $_['text_transaction_suspended'] = 'Suspendido';
 $_['text_transaction_suspended_failed'] = 'Suspendido desde que falló el pago';
 $_['text_transaction_outstanding_failed'] = 'Falló el pago extraordinario';
 $_['text_transaction_expired'] = 'Expirado';
-$_['text_empty'] = '¡No se encontraron pagos recurrentes!';
-$_['text_error'] = '¡No se pudo encontrar el pedido recurrente que solicitaste!';
-$_['text_cancelled'] = 'Los pagos recurrentes han sido cancelados';
+$_['text_empty'] = '¡No se encontraron pagos frecuentes!';
+$_['text_error'] = '¡No se pudo encontrar el pedido frecuente que solicitaste!';
+$_['text_cancelled'] = 'Los pagos frecuentes han sido anulados';
 $_['column_date_added'] = 'Fecha de alta';
 $_['column_type'] = 'Tipo';
 $_['column_amount'] = 'Monto';
 $_['column_status'] = 'Estado';
 $_['column_product'] = 'Producto';
-$_['column_order_recurring_id'] = 'ID recurrente';
+$_['column_order_recurring_id'] = 'ID frecuente';
 $_['error_not_cancelled'] = 'Error: %s';
 $_['error_not_found'] = 'Could not cancel recurring';
 $_['button_return'] = 'Devolución';

@@ -2,7 +2,7 @@
 
 $_['text_success'] = 'Has modificado exitosamente los clientes';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para acceder a la API!';
-$_['error_customer'] = 'You must select a customer!';
+$_['error_customer'] = '¡Debes seleccionar un cliente!';
 $_['error_firstname'] = '¡El nombre debe tener entre 1 y 32 caracteres!';
 $_['error_lastname'] = '¡El apellido debe tener de 1 a 32 caracteres!';
 $_['error_email'] = '¡La dirección de correo electrónico no parece ser válida!';

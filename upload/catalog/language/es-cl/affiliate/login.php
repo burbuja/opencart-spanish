@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Programa de afiliados';
 $_['text_account'] = 'Cuenta';
-$_['text_login'] = 'Inicio de sesión';
+$_['text_login'] = 'Iniciar sesión';
 $_['text_description'] = '<p>%s affiliate program is free and enables members to earn revenue by placing a link or links on their web site which advertises %s or specific products on it. Any sales made to customers who have clicked on those links will earn the affiliate commission. The standard commission rate is currently %s.</p><p>For more information, visit our FAQ page or see our Affiliate terms &amp; conditions.</p>';
 $_['text_new_affiliate'] = 'Nuevo afiliado';
 $_['text_register_account'] = '<p>Actualmente no soy un afiliado.</p><p>Haz clic más abajo en continuar para crear una nueva cuenta de afiliado. Por favor considera que esto no está conectado en forma alguna con tu cuenta de cliente.</p>';

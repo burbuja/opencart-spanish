@@ -20,4 +20,4 @@ $_['entry_ip'] = 'Dirección IP';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las API\'s!';
 $_['error_username'] = '¡El nombre de usuario de la API debe tener de 3 a 20 caracteres!';
 $_['error_key'] = '¡La contraseña de la API debe tener de 64 a 256 caracteres!';
-$_['error_ip'] = 'You must have atleast one IP added to the allowed list!';
+$_['error_ip'] = '¡Debes tener al menos una dirección IP agregada a la lista de permitidos!';

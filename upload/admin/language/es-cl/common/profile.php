@@ -1,8 +1,8 @@
 <?php
 
 $_['heading_title'] = 'Perfil';
-$_['text_success'] = 'Success: You have modified your profile!';
-$_['text_edit'] = 'Edit Your Profile';
+$_['text_success'] = 'Éxito: ¡Has modificado tu perfil!';
+$_['text_edit'] = 'Edita tu perfil';
 $_['column_username'] = 'Nombre de usuario';
 $_['column_status'] = 'Estado';
 $_['column_date_added'] = 'Fecha de alta';
@@ -14,7 +14,7 @@ $_['entry_firstname'] = 'Nombres';
 $_['entry_lastname'] = 'Apellido';
 $_['entry_email'] = 'Correo electrónico';
 $_['entry_image'] = 'Imagen';
-$_['error_permission'] = 'Warning: You do not have permission to modify your profile!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar tu perfil!';
 $_['error_exists_username'] = 'Aviso: ¡El nombre de usuario ya está en uso!';
 $_['error_username'] = '¡El nombre de usuario debe tener de 3 a 20 caracteres!';
 $_['error_password'] = 'La contraseña debe tener de 4 a 20 caracteres!';

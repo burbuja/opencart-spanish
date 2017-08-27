@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Tiendas';
-$_['text_settings'] = 'Preferencias';
+$_['text_settings'] = 'Configuraciones';
 $_['text_success'] = 'Éxito: ¡Has modificado las tiendas!';
 $_['text_list'] = 'Lista de tiendas';
 $_['text_add'] = 'Agregar tienda';
@@ -68,7 +68,7 @@ $_['help_customer_group_display'] = 'Display customer groups that new customers 
 $_['help_customer_price'] = 'Mostrar los precios solo cuando el cliente haya iniciado la sesión.';
 $_['help_account'] = 'Fuerza a que la gente esté de acuerdo con los términos antes de poder crearse una cuenta.';
 $_['help_checkout_guest'] = 'Permitir a los clientes pagar sin crear una cuenta. Esto no estará disponible cuando un producto descargable se encuentre en el carro de compra.';
-$_['help_checkout'] = 'Forces people to agree to terms before an a customer can checkout.';
+$_['help_checkout'] = 'Fuerza a que la gente esté de acuerdo con los términos antes de que un cliente pueda realizar el pago.';
 $_['help_order_status'] = 'Establece el estado predeterminado del pedido al procesarse un pedido.';
 $_['help_stock_display'] = 'Mostrar la cantidad de existencias en la página del producto.';
 $_['help_stock_checkout'] = 'Permitir que los clientes realicen pagos por productos que no están disponibles.';

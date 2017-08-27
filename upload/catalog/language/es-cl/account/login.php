@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Inicio de sesión de la cuenta';
 $_['text_account'] = 'Cuenta';
-$_['text_login'] = 'Inicio de sesión';
+$_['text_login'] = 'Iniciar sesión';
 $_['text_new_customer'] = 'Nuevo cliente';
 $_['text_register'] = 'Registrar cuenta';
 $_['text_register_account'] = 'Al crear una cuenta, podrás comprar más rápido, estar al día con el estado de un pedido, y realizar seguimiento de los pedidos que hayas hecho previamente.';

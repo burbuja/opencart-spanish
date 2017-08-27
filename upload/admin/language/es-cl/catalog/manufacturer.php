@@ -21,5 +21,5 @@ $_['entry_type'] = 'Tipo';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los fabricantes!';
 $_['error_name'] = '¡El nombre del fabricante debe tener de 1 a 64 caracteres!';
 $_['error_keyword'] = 'SEO URL already in use!';
-$_['error_unique'] = 'SEO URL must be unique!';
+$_['error_unique'] = '¡La URL para SEO debe ser única!';
 $_['error_product'] = 'Aviso: ¡No se puede eliminar este fabricante porque está asignado a %s productos!';

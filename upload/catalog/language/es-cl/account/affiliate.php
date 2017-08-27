@@ -1,6 +1,6 @@
 <?php
 
-$_['heading_title'] = 'Your Affiliate Information';
+$_['heading_title'] = 'tu información de afiliado';
 $_['text_account'] = 'Cuenta';
 $_['text_affiliate'] = 'Afiliado';
 $_['text_my_affiliate'] = 'Mi cuenta de afiliado';

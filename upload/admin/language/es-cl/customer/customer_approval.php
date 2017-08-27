@@ -1,6 +1,6 @@
 <?php
 
-$_['heading_title'] = 'Customer Approvals';
+$_['heading_title'] = 'Aprobaciones de clientes';
 $_['text_success'] = 'Éxito: ¡Has modificado las aprobaciones de clientes!';
 $_['text_list'] = 'Customer Approval List';
 $_['text_default'] = 'Predeterminado';
@@ -17,4 +17,4 @@ $_['entry_email'] = 'Correo electrónico';
 $_['entry_customer_group'] = 'Grupo de clientes';
 $_['entry_type'] = 'Tipo';
 $_['entry_date_added'] = 'Fecha de alta';
-$_['error_permission'] = 'Warning: You do not have permission to modify customer approvals!';
+$_['error_permission'] = 'Advertencia: ¡No tienes permiso para modificar las aprobaciones de clientes!';

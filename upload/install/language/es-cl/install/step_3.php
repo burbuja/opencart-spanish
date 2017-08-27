@@ -1,12 +1,13 @@
 <?php
 
 $_['heading_title'] = 'Configuración';
-$_['text_step_3'] = 'Enter your database and administration details';
+$_['text_step_3'] = 'Ingresa los detalles de tu base de datos y administración';
 $_['text_db_connection'] = '1. Please enter your database connection details.';
 $_['text_db_administration'] = '2. Por favor ingresa un nombre de usuario y contraseña para la administración.';
 $_['text_mysqli'] = 'MySQLi';
 $_['text_mysql'] = 'MySQL';
 $_['text_mpdo'] = 'mPDO';
+$_['text_pgsql'] = 'PostgreSQL';
 $_['entry_db_driver'] = 'Controlador de la base de datos';
 $_['entry_db_hostname'] = 'Nombre del host';
 $_['entry_db_username'] = 'Nombre de usuario';
