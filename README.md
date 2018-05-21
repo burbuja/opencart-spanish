@@ -12,16 +12,16 @@ Este proyecto partió con la idea de hacer una tienda virtual que nunca vio la l
  4. Una vez terminada la instalación, se debe ingresar a la administración.
  5. Se debe hacer clic en System → Localization → Languages → Add New (signo más).
  6. Se debe rellenar el formulario con los siguientes datos:
-  -- Language Name: Español
-  -- Code: es-cl
-  -- Status: Enabled
-  -- Sort Order: 1
+  - Language Name: Español
+  - Code: es-cl
+  - Status: Enabled
+  - Sort Order: 1
  7. Una vez que guardada esta nueva configuración, se debe hacer clic en System → Edit (el ícono del lápiz) → Local.
  8. Aquí se deben cambiar como mínimo algunos parámetros:
-  -- Country: Chile o tu propio país
-  -- Region / State: tu propia región o estado
-  -- Language: Español
-  -- Administration Language: Español
+  - Country: Chile o tu propio país
+  - Region / State: tu propia región o estado
+  - Language: Español
+  - Administration Language: Español
  9. Se guarda la configuración y ya estará listo.
 
 ## Ayuda
