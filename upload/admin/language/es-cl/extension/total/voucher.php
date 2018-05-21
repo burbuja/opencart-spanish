@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Tarjeta de regalo';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el total de la tarjeta de regalo!';
 $_['text_edit'] = 'Editar el total de la tarjeta de regalo';
 $_['entry_status'] = 'Estado';

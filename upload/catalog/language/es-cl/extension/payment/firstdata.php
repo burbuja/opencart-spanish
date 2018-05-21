@@ -1,0 +1,36 @@
+<?php
+
+$_['text_title'] = 'Tarjeta de crédito o débito (First Data)';
+$_['button_confirm'] = 'Continuar';
+$_['text_new_card'] = 'Nueva tarjeta';
+$_['text_store_card'] = 'Recordar los detalles de mi tarjeta';
+$_['text_address_response'] = 'Verificación del domicilio:';
+$_['text_address_ppx'] = 'No address data provided or Address not checked by the Card Issuer';
+$_['text_address_yyy'] = 'Card Issuer confirmed that street and postcode match with their records';
+$_['text_address_yna'] = 'Card Issuer confirmed that street matches with their records but postcode does not match';
+$_['text_address_nyz'] = 'Card Issuer confirmed that postcode matches with their records but street does not match';
+$_['text_address_nnn'] = 'Both street and postcode do not match with the Card Issuer records';
+$_['text_address_ypx'] = 'Card Issuer confirmed that street matches with their records. The Issuer did not check the postcode';
+$_['text_address_pyx'] = 'El emisor de la tarjeta confirmó que el código postal coincide con sus registros. El emisor no revisó la calle.';
+$_['text_address_xxu'] = 'Card Issuer did not check the AVS information';
+$_['text_card_code_verify'] = 'Código de seguridad:';
+$_['text_card_code_m'] = 'Coincide el código de seguridad de la tarjeta';
+$_['text_card_code_n'] = 'El código de seguridad de la tarjeta no coincide';
+$_['text_card_code_p'] = 'Sin procesar';
+$_['text_card_code_s'] = 'Merchant has indicated that the card security code is not present on the card';
+$_['text_card_code_u'] = 'El emisor no está certificado y/o no ha provisto las claves de cifrado';
+$_['text_card_code_x'] = 'No se recibió respuesta de la entidad de la tarjeta de crédito';
+$_['text_card_code_blank'] = 'Una respuesta en blanco puede indicar que no se envió el código y no hay indicación de que el código estuviera presente en la tarjeta.';
+$_['text_card_type_m'] = 'MasterCard';
+$_['text_card_type_v'] = 'Visa (Crédito/Débito/Electron/Delta)';
+$_['text_card_type_c'] = 'Diners';
+$_['text_card_type_a'] = 'American Express';
+$_['text_card_type_ma'] = 'Maestro';
+$_['text_card_type_mauk'] = 'Maestro UK/Solo';
+$_['text_response_code_full'] = 'Código de aprobación:';
+$_['text_response_code'] = 'Código completo de la respuesta:';
+$_['text_response_card'] = 'Tarjeta usada:';
+$_['text_response_card_type'] = 'Tipo de tarjeta:';
+$_['text_response_proc_code'] = 'Código del procesador:';
+$_['text_response_ref'] = 'Número de referencia:';
+$_['error_failed'] = 'No se pudo procesar tu pago, por favor inténtalo de nuevo';

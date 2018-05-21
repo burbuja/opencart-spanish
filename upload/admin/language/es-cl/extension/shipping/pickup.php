@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Retirar en la tienda';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el ir a buscar a la tienda!';
 $_['text_edit'] = 'Edit Pickup From Store Shipping';
 $_['entry_geo_zone'] = 'Zona geográfica';

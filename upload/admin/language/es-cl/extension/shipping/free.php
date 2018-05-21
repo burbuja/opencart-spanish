@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Envío gratis';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el envío gratis!';
 $_['text_edit'] = 'Editar el envío gratis';
 $_['entry_total'] = 'Total';

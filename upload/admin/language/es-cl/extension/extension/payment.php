@@ -3,6 +3,7 @@
 $_['heading_title'] = 'Pagos';
 $_['text_success'] = 'Éxito: ¡Has modificado los pagos!';
 $_['text_list'] = 'Lista de pagos';
+$_['text_recommended'] = 'Payments - Recommended Solutions';
 $_['column_name'] = 'Medio de pago';
 $_['column_status'] = 'Estado';
 $_['column_sort_order'] = 'Orden';

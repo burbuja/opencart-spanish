@@ -1,6 +1,7 @@
 <?php
 
 $_['heading_title'] = 'PayPal Pro iFrame';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Success: You have modified PayPal Pro iFrame account details!';
 $_['text_edit'] = 'Edit PayPal Pro iFrame';
 $_['text_pp_pro_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
@@ -112,7 +113,7 @@ $_['column_status'] = 'Estado';
 $_['column_pending_reason'] = 'Razón pendiente';
 $_['column_date_added'] = 'Creada';
 $_['column_action'] = 'Acción';
-$_['tab_settings'] = 'Preferencias';
+$_['tab_settings'] = 'Configuraciones';
 $_['tab_order_status'] = 'Estado del pedido';
 $_['tab_checkout_customisation'] = 'Personalización del pago';
 $_['entry_username'] = 'Nombre de usuario de la API';

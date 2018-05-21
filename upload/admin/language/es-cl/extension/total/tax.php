@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Impuestos';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el total de los impuestos!';
 $_['text_edit'] = 'Editar el total de impuestos';
 $_['entry_status'] = 'Estado';

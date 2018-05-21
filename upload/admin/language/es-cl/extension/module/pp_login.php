@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Iniciar sesión con PayPal';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Éxito: ¡Has modificado el inicio de sesión con el módulo de PayPal!';
+$_['text_success'] = 'Éxito: ¡Has modificado el módulo de inicio de sesión con PayPal!';
 $_['text_edit'] = 'Editar el módulo Log In with PayPal';
 $_['text_button_grey'] = 'Gris';
 $_['text_button_blue'] = 'Azul (recomendado)';

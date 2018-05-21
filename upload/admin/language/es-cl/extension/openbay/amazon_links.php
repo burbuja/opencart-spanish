@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Enlaces del artículo';
 $_['text_openbay'] = 'OpenBay Pro';
-$_['text_amazon'] = 'Amazon EU';
+$_['text_amazon'] = 'Amazon U.E.';
 $_['text_desc1'] = 'Linking your items will allow for stock control on your Amazon listings.';
 $_['text_desc2'] = 'For each item that is updated the local stock (the stock available in your OpenCart store) will update your Amazon listing';
 $_['text_desc3'] = 'You can link items manually by entering Amazon SKU and product name or load all unlinked products and then enter amazon SKUs. (Uploading products from OpenCart to Amazon will automatically add links)';

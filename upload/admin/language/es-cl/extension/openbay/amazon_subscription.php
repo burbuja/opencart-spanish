@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Suscripción';
 $_['text_openbay'] = 'OpenBay Pro';
-$_['text_amazon'] = 'Amazon EU';
+$_['text_amazon'] = 'Amazon U.E.';
 $_['text_current_plan'] = 'Plan actual';
 $_['text_register_invite'] = '¿Aún no tienes los detalles de tu API?';
 $_['text_available_plans'] = 'Planes disponibles';

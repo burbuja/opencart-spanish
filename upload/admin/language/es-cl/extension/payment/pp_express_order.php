@@ -14,6 +14,7 @@ $_['text_resend'] = 'Reenviar';
 $_['text_success'] = 'La transacción fue enviada exitosamente';
 $_['text_full_refund'] = 'Reembolso completo';
 $_['text_partial_refund'] = 'Partial refund';
+$_['text_payment'] = 'Pago';
 $_['text_current_refunds'] = 'Los reembolsos ya se han hecho para esta transacción. El máximo de reembolso es de';
 $_['column_transaction'] = 'ID de la transacción';
 $_['column_amount'] = 'Monto';

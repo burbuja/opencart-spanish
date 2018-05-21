@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Cargo por pedido pequeño';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el total de cargo por pedido bajo!';
 $_['text_edit'] = 'Editar el total del cargo por pedido pequeño';
 $_['entry_total'] = 'Total del pedido';

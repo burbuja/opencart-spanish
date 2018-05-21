@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Listas guardadas';
 $_['text_openbay'] = 'OpenBay Pro';
-$_['text_amazon'] = 'Amazon EU';
+$_['text_amazon'] = 'Amazon U.E.';
 $_['text_description'] = 'Esta es la lista de listas de productos, la cual se guarda y queda lista para ser cargada en Amazon.';
 $_['text_uploaded_alert'] = 'Saved listing(s) uploaded!';
 $_['text_delete_confirm'] = '¿Estás seguro?';

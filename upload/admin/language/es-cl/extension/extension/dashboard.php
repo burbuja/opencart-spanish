@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Panel de control';
 $_['text_success'] = 'Success: You have modified dashboards!';
-$_['text_list'] = 'Dashboard List';
+$_['text_list'] = 'Lista de paneles';
 $_['column_name'] = 'Dashboard Name';
 $_['column_width'] = 'Ancho';
 $_['column_status'] = 'Estado';

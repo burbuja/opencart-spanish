@@ -8,7 +8,7 @@ $_['text_cardinity'] = '<a href="http://cardinity.com/?crdp=opencart" target="_b
 $_['text_production'] = 'Producción';
 $_['text_sandbox'] = 'Entorno de pruebas (sandbox)';
 $_['text_payment_info'] = 'Refund information';
-$_['text_no_refund'] = 'No refund history';
+$_['text_no_refund'] = 'Sin historial de devolución';
 $_['text_confirm_refund'] = 'Are you sure you want to refund';
 $_['text_na'] = 'N/A';
 $_['text_success_action'] = 'Éxito';
@@ -36,5 +36,5 @@ $_['error_secret'] = '¡Se requiere el secreto!';
 $_['error_composer'] = 'No se pudo cargar el SDK de Cardinity. Por favor descarga una carpeta compilada de vendedor o ejecuta un compositor.';
 $_['error_php_version'] = '¡Se requiere como mínimo PHP versión 5.4.0!';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el pago Cardinity!';
-$_['error_connection'] = 'There was a problem establishing a connection to the Cardinity API. Please check your Key and Secret settings.';
+$_['error_connection'] = 'Hubo un problema al intentar realizar la conexión a la API de Cardinity. Por favor verifica las configuraciones de tu clave y secreto.';
 $_['error_warning'] = 'Aviso: ¡Por favor revise cuidadosamente los errores del formulario!';

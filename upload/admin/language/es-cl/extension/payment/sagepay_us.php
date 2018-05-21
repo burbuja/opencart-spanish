@@ -12,6 +12,6 @@ $_['entry_geo_zone'] = 'Zona geográfica';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
 $_['help_total'] = 'El total a pagar que el pedido debe alcanzar antes de que este medio de pago se vuelva activo.';
-$_['error_permission'] = 'Warning: You do not have permission to modify payment SagePay!';
+$_['error_permission'] = 'Advertencia: ¡No tienes permiso para modificar el módulo de pagos de SagePay!';
 $_['error_merchant_id'] = '¡Se requiere el ID del comerciante!';
 $_['error_merchant_key'] = '¡Se requiere la clave de comerciante!';

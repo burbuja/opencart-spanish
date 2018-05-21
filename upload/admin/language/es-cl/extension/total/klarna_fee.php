@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Cargo de Klarna';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado la tasa total de Klarna!';
 $_['text_edit'] = 'Editar el cargo total de Klarna';
 $_['text_sweden'] = 'Suecia';

@@ -2,8 +2,8 @@
 
 $_['heading_title'] = 'FraudLabs Pro';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Éxito: ¡Has modificado las preferencias del módulo de FraudLabs Pro!';
-$_['text_edit'] = 'Preferencias';
+$_['text_success'] = 'Éxito: ¡Has modificado las configuraciones del módulo de FraudLabs Pro!';
+$_['text_edit'] = 'Configuraciones';
 $_['text_signup'] = 'FraudLabs Pro is a fraud detection service. You can <a href="http://www.fraudlabspro.com/plan?ref=1730" target="_blank"><u>sign up here</u></a> for a free API Key.';
 $_['text_id'] = 'ID de FraudLabs Pro';
 $_['text_ip_address'] = 'Dirección IP';
@@ -23,7 +23,7 @@ $_['text_using_proxy'] = 'Usando proxy';
 $_['text_bin_found'] = 'BIN Found';
 $_['text_email_blacklist'] = 'Lista negra de correo';
 $_['text_credit_card_blacklist'] = 'Lista negra de tarjetas de crédito';
-$_['text_score'] = 'FraudLabs Pro Score';
+$_['text_score'] = 'Puntaje de FraudLabs Pro';
 $_['text_status'] = 'Estado de FraudLabs Pro';
 $_['text_message'] = 'Mensaje';
 $_['text_transaction_id'] = 'ID de la transacción';
@@ -67,5 +67,5 @@ $_['help_status'] = 'Estado de FraudLabs.';
 $_['help_message'] = 'Mensaje de descripción del error de FraudLabs Pro.';
 $_['help_transaction_id'] = 'Unique identifier for a transaction screened by FraudLabs Pro system.';
 $_['help_credits'] = 'Balance de los créditos disponibles después de esta transacción.';
-$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las preferencias de FraudLabs Pro!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las configuraciones de FraudLabs Pro!';
 $_['error_key'] = '¡Se requiere la clave de la API!';

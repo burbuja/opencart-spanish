@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Envío basado en el peso';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el envío basado en el peso!';
 $_['text_edit'] = 'Editar el envío basado en el peso';
 $_['entry_rate'] = 'Tasas';

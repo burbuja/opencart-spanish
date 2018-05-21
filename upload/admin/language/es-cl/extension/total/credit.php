@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Crédito de la tienda';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el crédito total de la tienda!';
 $_['text_edit'] = 'Editar el total del crédito de la tienda';
 $_['entry_status'] = 'Estado';

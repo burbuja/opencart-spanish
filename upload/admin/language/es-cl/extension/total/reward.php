@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Puntos';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el total de puntos!';
 $_['text_edit'] = 'Editar el total de puntos';
 $_['entry_status'] = 'Estado';

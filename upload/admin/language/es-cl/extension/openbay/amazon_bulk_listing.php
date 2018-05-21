@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Lista masiva';
 $_['text_openbay'] = 'OpenBay Pro';
-$_['text_amazon'] = 'Amazon EU';
+$_['text_amazon'] = 'Amazon U.E.';
 $_['text_searching'] = 'Buscando';
 $_['text_finished'] = 'Finalizado';
 $_['text_marketplace'] = 'Mercado';

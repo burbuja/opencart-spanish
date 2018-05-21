@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Cupón';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el total del cupón!';
 $_['text_edit'] = 'Editar cupón';
 $_['entry_status'] = 'Estado';

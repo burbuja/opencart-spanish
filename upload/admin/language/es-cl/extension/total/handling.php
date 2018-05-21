@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Tasa de manejo';
-$_['text_total'] = 'Totales del pedido';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el total del costo de manejo!';
 $_['text_edit'] = 'Editar el total de la tasa de manejo';
 $_['entry_total'] = 'Total del pedido';

@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'United States Postal Service';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el módulo de United States Postal Service!';
 $_['text_edit'] = 'Edit United States Postal Service Shipping';
 $_['text_domestic_00'] = 'Encomienda por correo de primera clase';
@@ -27,7 +27,7 @@ $_['text_domestic_25'] = 'Express Mail Flat-Rate Envelope Sunday/Holiday';
 $_['text_domestic_27'] = 'Express Mail Flat-Rate Envelope Hold For Pickup';
 $_['text_domestic_28'] = 'Priority Mail Small Flat-Rate Box';
 $_['text_international_1'] = 'Express Mail International';
-$_['text_international_2'] = 'Priority Mail International';
+$_['text_international_2'] = 'Correo prioritario internacional';
 $_['text_international_4'] = 'Global Express Guaranteed (Document and Non-document)';
 $_['text_international_5'] = 'Global Express Guaranteed Document used';
 $_['text_international_6'] = 'Global Express Guaranteed Non-Document Rectangular shape';

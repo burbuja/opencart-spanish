@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Bulk Linking';
 $_['text_openbay'] = 'OpenBay Pro';
-$_['text_amazon'] = 'Amazon EU';
+$_['text_amazon'] = 'Amazon U.E.';
 $_['button_load'] = 'Cargar';
 $_['button_link'] = 'Enlace';
 $_['text_local'] = 'Local';

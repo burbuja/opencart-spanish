@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Tarifa plana';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el envío de tarifa plana!';
 $_['text_edit'] = 'Edit Flat Rate Shipping';
 $_['entry_cost'] = 'Costo';

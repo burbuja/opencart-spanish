@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'UPS';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el envío de UPS!';
 $_['text_edit'] = 'Editar el despacho de UPS';
 $_['text_regular_daily_pickup'] = 'Regular Daily Pickup';
@@ -85,7 +85,7 @@ $_['help_packaging'] = '¿Qué tipo de embalaje usas?';
 $_['help_classification'] = '01 - If you are billing to a UPS account and have a daily UPS pickup, 03 - If you do not have a UPS account or you are billing to a UPS account but do not have a daily pickup, 04 - If you are shipping from a retail outlet (only used when origin is US)';
 $_['help_origin'] = 'What origin point should be used (this setting affects only what UPS product names are shown to the user)';
 $_['help_city'] = 'Ingresa el nombre de la ciudad de origen.';
-$_['help_state'] = 'Enter the two-letter code for your origin state/province.';
+$_['help_state'] = 'Ingresa el código de dos letras de tu provincia o estado de origen.';
 $_['help_country'] = 'Ingresa el código de dos letras de tu país de origen.';
 $_['help_postcode'] = 'Ingresa tu código postal original.';
 $_['help_test'] = '¿Usar este módulo en modo de pruebas (YES) o de producción (NO)?';

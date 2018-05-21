@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Citylink';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el envío de Citylink!';
 $_['text_edit'] = 'Edit Citylink Shipping';
 $_['entry_rate'] = 'Tasas de Citylink';

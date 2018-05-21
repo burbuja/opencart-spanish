@@ -1,6 +1,6 @@
 <?php
 
-$_['heading_title'] = 'PayPal Payflow Pro iFrame';
+$_['heading_title'] = 'iFrame de PayPal Payflow Pro';
 $_['heading_refund'] = 'Reembolso';
 $_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado los detalles de la cuenta de PayPal Payflow Pro iFrame!';
@@ -8,7 +8,7 @@ $_['text_edit'] = 'Editar PayPal Payflow Pro iFrame';
 $_['text_pp_payflow_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Autorización';
 $_['text_sale'] = 'Venta';
-$_['text_authorise'] = 'Authorise';
+$_['text_authorise'] = 'Autorizar';
 $_['text_capture'] = 'Captura retrasada';
 $_['text_void'] = 'Nulo';
 $_['text_payment_info'] = 'Información de pago';
@@ -26,7 +26,7 @@ $_['column_transaction_type'] = 'Tipo de transacción';
 $_['column_amount'] = 'Monto';
 $_['column_time'] = 'Hora';
 $_['column_actions'] = 'Acciones';
-$_['tab_settings'] = 'Preferencias';
+$_['tab_settings'] = 'Configuraciones';
 $_['tab_order_status'] = 'Estado del pedido';
 $_['tab_checkout_customisation'] = 'Personalización del pago';
 $_['entry_vendor'] = 'Vendedor';

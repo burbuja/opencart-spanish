@@ -1,19 +1,19 @@
 <?php
 
-$_['heading_title'] = 'Fulfillments';
+$_['heading_title'] = 'Cumplimentos';
 $_['text_openbay'] = 'OpenBay Pro';
 $_['text_fba'] = 'Fulfillment By Amazon';
 $_['heading_order_info'] = 'Información del pedido';
 $_['heading_products'] = 'Productos';
 $_['entry_seller_fulfillment_order_id'] = 'Seller fulfillment order ID';
-$_['entry_displayable_order_id'] = 'Displayable order ID';
+$_['entry_displayable_order_id'] = 'ID del pedido a mostrar';
 $_['entry_displayable_date'] = 'Displayable date/time';
 $_['entry_displayable_comment'] = 'Displayable comment';
-$_['entry_shipping_speed_category'] = 'Shipping speed category';
+$_['entry_shipping_speed_category'] = 'Categoría de velocidad del despacho';
 $_['entry_fulfillment_policy'] = 'Fulfillment policy';
 $_['entry_fulfillment_order_status'] = 'Estado';
 $_['entry_notification_email_list'] = 'Lista de notificación de correo electrónico';
-$_['entry_button_cancel'] = 'Cancel fulfillment';
+$_['entry_button_cancel'] = 'Anular cumplimiento';
 $_['entry_button_ship'] = 'Ship fulfillment';
 $_['text_no_results'] = 'No fulfillment\'s found on Amazon';
 $_['text_fulfillment_list'] = 'Amazon Fulfillment list';
@@ -34,7 +34,7 @@ $_['column_unfulfillable_quantity'] = 'Unfulfillable Quantity';
 $_['column_estimated_ship'] = 'Envío estimado';
 $_['column_estimated_arrive'] = 'Llegada estimada';
 $_['error_loading_fulfillment'] = 'There was a problem getting the fulfillment order information from Amazon';
-$_['error_ship'] = 'There was a problem confirming the shipment with Amazon';
+$_['error_ship'] = 'Hubo un problema al confirmar el envío con Amazon';
 $_['error_cancel'] = 'There was a problem cancelling the fulfillment with Amazon';
 $_['error_missing_id'] = 'Falta el ID en la solicitud';
 $_['error_no_shipping'] = 'No se encontraron métodos de envío';

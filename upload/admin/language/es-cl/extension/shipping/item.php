@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Por artículo';
-$_['text_shipping'] = 'Envío';
+$_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado las tasas de envío por artículo!';
 $_['text_edit'] = 'Edit Per Item Shipping';
 $_['entry_cost'] = 'Costo';

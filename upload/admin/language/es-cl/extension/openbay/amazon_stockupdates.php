@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Actualizaciones de existencias';
 $_['text_openbay'] = 'OpenBay Pro';
-$_['text_amazon'] = 'Amazon EU';
+$_['text_amazon'] = 'Amazon U.E.';
 $_['text_empty'] = '¡No hay resultados!';
 $_['entry_date_start'] = 'Fecha de inicio';
 $_['entry_date_end'] = 'Fecha de fin';

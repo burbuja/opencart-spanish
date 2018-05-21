@@ -6,6 +6,7 @@ $_['text_layout'] = 'After you have installed and configured a module you can ad
 $_['text_add'] = 'Agregar el módulo';
 $_['text_list'] = 'Lista de módulos';
 $_['column_name'] = 'Nombre del módulo';
+$_['column_status'] = 'Estado';
 $_['column_action'] = 'Acción';
 $_['entry_code'] = 'Módulo';
 $_['entry_name'] = 'Nombre del módulo';
