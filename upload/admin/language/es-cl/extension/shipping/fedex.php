@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'FedEx';
 $_['text_shipping'] = 'Envío';
-$_['text_success'] = 'Success: You have modified Fedex shipping!';
+$_['text_success'] = 'Éxito: ¡Has modificado el módulo de envío de Fedex!';
 $_['text_edit'] = 'Edit Fedex Shipping';
 $_['text_europe_first_international_priority'] = 'Europe First International Priority';
 $_['text_fedex_1_day_freight'] = 'Fedex 1 Day Freight';

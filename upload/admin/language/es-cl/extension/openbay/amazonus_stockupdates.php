@@ -12,4 +12,4 @@ $_['column_date_updated'] = 'Fecha de actualización';
 $_['column_status'] = 'Estado';
 $_['column_sku'] = 'SKU de Amazon';
 $_['column_stock'] = 'Existencias';
-$_['error_api_connection'] = 'Could not connect to the API';
+$_['error_api_connection'] = 'No se pudo establecer la conexión a la API';

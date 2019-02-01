@@ -18,5 +18,5 @@ $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
 $_['help_password'] = 'Leave empty if you do not have "Digest Key Authentication" enabled on your account.';
 $_['help_total'] = 'El total a pagar que el pedido debe alcanzar antes de que este medio de pago se vuelva activo.';
-$_['error_permission'] = 'Warning: You do not have permission to modify payment PayPoint!';
+$_['error_permission'] = 'Advertencia: ¡No tienes permiso para modificar el módulo de pago de PayPoint!';
 $_['error_merchant'] = '¡Se requiere el ID del comerciante!';

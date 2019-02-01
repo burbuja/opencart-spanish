@@ -78,4 +78,4 @@ $_['help_clear_faq'] = 'Mostrar de nuevo todas las notificaciones de ayuda';
 $_['help_empty_data'] = 'This can cause serious damage, do not use it if you do not know what it does!';
 $_['help_easy_update'] = 'Click update to install the latest version of OpenBay Pro automatically';
 $_['help_patch'] = 'Haz clic para ejecutar los <i>scripts</i> de parchado';
-$_['help_beta'] = 'Caution! The beta version is the latest development version. It may not be stable and could contain bugs.';
+$_['help_beta'] = '¡Advertencia! La versión beta es la última versión de desarrollo. Podría no ser estable y podría contener errores.';

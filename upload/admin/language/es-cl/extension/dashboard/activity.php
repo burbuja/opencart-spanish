@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Actividad reciente';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Success: You have modified dashboard activity!';
+$_['text_success'] = 'Éxito: ¡Has modificado la actividad del panel!';
 $_['text_edit'] = 'Edit Dashboard Recent Activity';
 $_['text_activity_register'] = '<a href="customer_id=%d">%s</a> registered a new account.';
 $_['text_activity_edit'] = '<a href="customer_id=%d">%s</a> updated their account details.';
@@ -23,4 +23,4 @@ $_['text_activity_transaction'] = '<a href="customer_id=%d">%s</a> received comm
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
 $_['entry_width'] = 'Ancho';
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard activity!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el panel de control de actividad!';

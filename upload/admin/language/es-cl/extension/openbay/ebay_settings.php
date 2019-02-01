@@ -59,7 +59,6 @@ $_['entry_developer_locks'] = '¿Quitar los bloqueos del pedido?';
 $_['entry_payment_instruction'] = 'Instrucciones de pago';
 $_['entry_payment_immediate'] = 'Se requiere el pago inmediato';
 $_['entry_payment_types'] = 'Tipos de pago';
-$_['entry_brand_disable'] = 'Desactivar el enlace de la marca';
 $_['entry_duration'] = 'Duración predeterminada de la lista';
 $_['entry_measurement'] = 'Sistema de medida';
 $_['entry_address_format'] = 'Formato de dirección predeterminado';

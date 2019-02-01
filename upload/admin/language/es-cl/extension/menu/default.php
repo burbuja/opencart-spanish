@@ -1,6 +1,6 @@
 <?php
 
-$_['heading_title'] = 'Default Menu';
+$_['heading_title'] = 'Menú predeterminado';
 $_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado la fuente de Google Base!';
 $_['text_edit'] = 'Editar Google Base';

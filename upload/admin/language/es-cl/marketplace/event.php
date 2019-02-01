@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Eventos';
-$_['text_success'] = 'Success: You have modified events!';
+$_['text_success'] = 'Éxito: ¡Has modificado los eventos!';
 $_['text_list'] = 'Lista de eventos';
 $_['text_event'] = 'Events are used by extensions to override the default functionality of your store. If you have issues you can disable or enable the events here.';
 $_['text_info'] = 'Información del evento';

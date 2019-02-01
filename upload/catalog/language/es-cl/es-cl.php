@@ -63,4 +63,4 @@ $_['error_upload_7'] = 'Aviso: ¡Hubo un error al intentar escribir el archivo e
 $_['error_upload_8'] = 'Aviso: ¡La carga de archivo fue detenida debido a su extensión!';
 $_['error_upload_999'] = 'Aviso: ¡No hay código de error disponible!';
 $_['error_curl'] = 'CURL: Código de error(%s): %s';
-$_['datepicker'] = 'en-gb';
+$_['datepicker'] = 'es-cl';

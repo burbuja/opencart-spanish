@@ -2,8 +2,8 @@
 
 $_['heading_title'] = 'Reporte de devoluciones';
 $_['text_extension'] = 'Extensiones';
-$_['text_edit'] = 'Edit Returns Report';
-$_['text_success'] = 'Success: You have modified returns report!';
+$_['text_edit'] = 'Editar el informe de devoluciones';
+$_['text_success'] = 'Éxito: ¡Has modificado los informes de devolución!';
 $_['text_filter'] = 'Filtro';
 $_['text_year'] = 'Años';
 $_['text_month'] = 'Meses';
@@ -18,4 +18,4 @@ $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_group'] = 'Agrupar por';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify returns report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de devoluciones!';

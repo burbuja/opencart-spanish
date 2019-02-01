@@ -1,6 +1,6 @@
 <?php
 
-$_['text_success'] = 'Success: You have modified extensions!';
+$_['text_success'] = 'Éxito: ¡Has modificado las extensiones!';
 $_['text_unzip'] = '¡Extrayendo archivos!';
 $_['text_move'] = '¡Copiando archivos!';
 $_['text_xml'] = '¡Aplicando las modificaciones!';

@@ -2,9 +2,9 @@
 
 $_['text_title'] = 'Credit Card / Debit Card (Cardinity)';
 $_['text_payment_success'] = 'Payment success, details below';
-$_['text_payment_failed'] = 'Payment failed, details below';
+$_['text_payment_failed'] = 'Falló el pago, detalles más abajo';
 $_['entry_holder'] = 'Nombre del tarjetahabiente';
-$_['entry_pan'] = 'Card Number';
+$_['entry_pan'] = 'Número de la tarjeta';
 $_['entry_expires'] = 'Expira';
 $_['entry_exp_month'] = 'Mes';
 $_['entry_exp_year'] = 'Año';

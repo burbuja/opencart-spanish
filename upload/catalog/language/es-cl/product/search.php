@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Buscar';
 $_['heading_tag'] = 'Etiqueta - ';
 $_['text_search'] = 'Productos que coinciden con el criterio de búsqueda';
-$_['text_keyword'] = 'Keywords';
+$_['text_keyword'] = 'Palabras clave';
 $_['text_category'] = 'Todas las categorías';
 $_['text_sub_category'] = 'Buscar en subcategorías';
 $_['text_empty'] = 'No hay productos que coincidan con el criterio de búsqueda.';

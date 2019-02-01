@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Editor de temas';
 $_['text_success'] = 'Éxito: ¡Has modificado los temas!';
 $_['text_edit'] = 'Edit Theme';
-$_['text_store'] = 'Choose your store';
+$_['text_store'] = 'Elige tu tienda';
 $_['text_template'] = 'Choose a template';
 $_['text_default'] = 'Predeterminado';
 $_['text_history'] = 'Historial del tema';
@@ -13,5 +13,5 @@ $_['column_route'] = 'Ruta';
 $_['column_theme'] = 'Tema';
 $_['column_date_added'] = 'Fecha de alta';
 $_['column_action'] = 'Acción';
-$_['error_permission'] = 'Warning: You do not have permission to modify the theme editor!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el editor de temas!';
 $_['error_twig'] = 'Advertencia: ¡Solo puedes guardar archivos .twig!';

@@ -1,9 +1,9 @@
 <?php
 
-$_['heading_title'] = 'Informe de impuestos';
+$_['heading_title'] = 'Informe tributario';
 $_['text_extension'] = 'Extensiones';
-$_['text_edit'] = 'Edit Tax Report';
-$_['text_success'] = 'Success: You have modified tax report!';
+$_['text_edit'] = 'Editar el informe tributario';
+$_['text_success'] = 'Éxito: ¡Has modificado el informe tributario!';
 $_['text_filter'] = 'Filtro';
 $_['text_year'] = 'Años';
 $_['text_month'] = 'Meses';
@@ -20,4 +20,4 @@ $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_group'] = 'Agrupar por';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify tax report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe tributario!';

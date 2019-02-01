@@ -2,6 +2,6 @@
 
 $_['heading_title'] = 'Klarna Checkout';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Success: You have modified module Klarna Checkout!';
+$_['text_success'] = 'Éxito: ¡Has modificado el módulo de Klarna Checkout!';
 $_['entry_status'] = 'Estado';
-$_['error_permission'] = 'Warning: You do not have permission to modify Klarna Checkout module!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el módulo de Klarna Checkout!';

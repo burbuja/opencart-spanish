@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Redirección de BluePay (requiere SSL)';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Success: You have modified BluePay Redirect account details!';
+$_['text_success'] = 'Éxito: ¡Has modificado los detalles de la cuenta de BluePay Redirect!';
 $_['text_edit'] = 'Editar el redireccionamiento de BluePay (requiere SSL)';
 $_['text_bluepay_redirect'] = '<a href="http://www.bluepay.com/preferred-partner/opencart" target="_blank"><img src="view/image/payment/bluepay.jpg" alt="BluePay Redirect" title="BluePay Redirect" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_sim'] = 'Simulador';

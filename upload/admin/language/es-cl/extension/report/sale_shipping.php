@@ -2,8 +2,8 @@
 
 $_['heading_title'] = 'Informe de envíos';
 $_['text_extension'] = 'Extensiones';
-$_['text_edit'] = 'Edit Shipping Report';
-$_['text_success'] = 'Success: You have modified shipping report!';
+$_['text_edit'] = 'Editar el informe de envíos';
+$_['text_success'] = 'Éxito: ¡Has modificado los informes de envío!';
 $_['text_filter'] = 'Filtro';
 $_['text_year'] = 'Años';
 $_['text_month'] = 'Meses';
@@ -20,4 +20,4 @@ $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_group'] = 'Agrupar por';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify shipping report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar informe de envíos!';

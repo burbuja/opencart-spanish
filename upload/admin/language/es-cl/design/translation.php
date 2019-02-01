@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Editor de idiomas';
 $_['text_success'] = 'Éxito: ¡Has modificado el editor de idiomas!';
-$_['text_list'] = 'Translation List';
+$_['text_list'] = 'Lista de traducción';
 $_['text_edit'] = 'Editar traducción';
 $_['text_add'] = 'Agregar traducción';
 $_['text_default'] = 'Predeterminado';
@@ -21,4 +21,4 @@ $_['entry_key'] = 'Clave';
 $_['entry_default'] = 'Predeterminado';
 $_['entry_value'] = 'Valor';
 $_['error_permission'] = 'Advertencia: ¡No tienes permiso para modificar el editor de idiomas!';
-$_['error_key'] = 'Key must be between 3 and 64 characters!';
+$_['error_key'] = '¡La clave debe tener de 3 a 64 caracteres!';

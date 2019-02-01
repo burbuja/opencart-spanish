@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Reporte de la actividad del cliente';
 $_['text_extension'] = 'Extensiones';
 $_['text_edit'] = 'Edit Customer Activity Report';
-$_['text_success'] = 'Success: You have modified customer activity report!';
+$_['text_success'] = 'Éxito: ¡Has modificado el informe de actividad del cliente!';
 $_['text_filter'] = 'Filtro';
 $_['text_activity_register'] = '<a href="customer_id=%d">%s</a> registered for an account.';
 $_['text_activity_edit'] = '<a href="customer_id=%d">%s</a> updated their account details.';
@@ -23,12 +23,12 @@ $_['text_activity_affiliate_edit'] = '<a href="customer_id=%d">%s</a> updated th
 $_['text_activity_transaction'] = '<a href="customer_id=%d">%s</a> received commission from an new <a href="order_id=%d">order</a>.';
 $_['column_customer'] = 'Cliente';
 $_['column_comment'] = 'Comentario';
-$_['column_ip'] = 'Dirección IP';
+$_['column_ip'] = 'IP';
 $_['column_date_added'] = 'Fecha de alta';
 $_['entry_customer'] = 'Cliente';
-$_['entry_ip'] = 'Dirección IP';
+$_['entry_ip'] = 'IP';
 $_['entry_date_start'] = 'Fecha de inicio';
 $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify customer activity report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de actividad de los clientes!';

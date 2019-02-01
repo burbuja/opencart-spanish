@@ -16,4 +16,4 @@ $_['entry_date_start'] = 'Fecha de inicio';
 $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify products purchased report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de productos comprados!';

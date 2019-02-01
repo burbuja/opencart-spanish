@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Historial de pedidos';
 $_['text_account'] = 'Cuenta';
-$_['text_order'] = 'Order Information';
+$_['text_order'] = 'Información del pedido';
 $_['text_order_detail'] = 'Detalles del pedido';
 $_['text_invoice_no'] = 'Número del recibo:';
 $_['text_order_id'] = 'ID del pedido:';

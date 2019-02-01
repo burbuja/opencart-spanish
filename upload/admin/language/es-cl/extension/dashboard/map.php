@@ -2,11 +2,11 @@
 
 $_['heading_title'] = 'Mapa mundial';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Success: You have modified dashboard map!';
-$_['text_edit'] = 'Edit Dashboard Map';
+$_['text_success'] = 'Éxito: ¡Has modificado el mapa del panel!';
+$_['text_edit'] = 'Editar el mapa del panel';
 $_['text_order'] = 'Pedidos';
 $_['text_sale'] = 'Ventas';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
 $_['entry_width'] = 'Ancho';
-$_['error_permission'] = 'Warning: You do not have permission to modify dashboard map!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el panel de control de mapa!';

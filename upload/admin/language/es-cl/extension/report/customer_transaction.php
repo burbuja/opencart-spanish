@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Informe de transacciones de cliente';
 $_['text_extension'] = 'Extensiones';
 $_['text_edit'] = 'Edit Customer Transaction Report';
-$_['text_success'] = 'Success: You have modified customer credit report!';
+$_['text_success'] = 'Éxito: ¡Has modificado el informe de crédito de clientes!';
 $_['text_filter'] = 'Filtro';
 $_['column_customer'] = 'Nombre del cliente';
 $_['column_email'] = 'Correo electrónico';
@@ -16,4 +16,4 @@ $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_customer'] = 'Cliente';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify customer credit report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de crédito de los clientes!';

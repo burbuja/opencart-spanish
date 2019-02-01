@@ -2,9 +2,9 @@
 
 $_['heading_title'] = 'PayPal Pro iFrame';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Success: You have modified PayPal Pro iFrame account details!';
+$_['text_success'] = 'Éxito: ¡Has modificado los detalles de la cuenta de PayPal Pro iFrame!';
 $_['text_edit'] = 'Edit PayPal Pro iFrame';
-$_['text_pp_pro_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_pp_pro_iframe'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Pro iFrame" title="PayPal Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Autorización';
 $_['text_sale'] = 'Venta';
 $_['text_payment_info'] = 'Información de pago';
@@ -149,7 +149,7 @@ $_['button_refund'] = 'Reembolso';
 $_['button_void'] = 'Nulo';
 $_['button_capture'] = 'Captura';
 $_['button_reauthorise'] = 'Reautorizar';
-$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el módulo de pagos de PayPal Website Payment Pro iFrame (Reino Unido)!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el módulo de pagos de PayPal Pro iFrame!';
 $_['error_sig'] = '¡Se requiere la firma!';
 $_['error_user'] = '¡Se requiere el usuario!';
 $_['error_password'] = '¡Se requiere la contraseña!';

@@ -21,4 +21,4 @@ $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_group'] = 'Agrupar por';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify sales report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de ventas!';

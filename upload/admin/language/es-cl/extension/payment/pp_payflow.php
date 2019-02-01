@@ -4,7 +4,7 @@ $_['heading_title'] = 'PayPal Payflow Pro';
 $_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado los detalles de la cuenta de PayPal Direct (UK)!';
 $_['text_edit'] = 'Editar PayPal Payflow Pro';
-$_['text_pp_payflow'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Website Payment Pro" title="PayPal Website Payment Pro iFrame" style="border: 1px solid #EEEEEE;" /></a>';
+$_['text_pp_payflow'] = '<a target="_BLANK" href="https://www.paypal.com/uk/mrb/pal=V4T754QB63XXL"><img src="view/image/payment/paypal.png" alt="PayPal Payflow Pro" title="PayPal Payflow Pro" style="border: 1px solid #EEEEEE;" /></a>';
 $_['text_authorization'] = 'Autorización';
 $_['text_sale'] = 'Venta';
 $_['entry_vendor'] = 'Vendedor';
@@ -24,7 +24,7 @@ $_['help_password'] = 'La contraseña de 6 a 32 caracteres que definiste al mome
 $_['help_partner'] = 'El ID provisto a ti por el revendedor autorizado de PayPal, quien te registró para el Payflow SDK. Si compraste tu cuenta directamente a PayPal, usa PayPal Pro en su lugar';
 $_['help_test'] = '¿Usar el servidor de puerta de enlace, de producción o de pruebas para procesar las transacciones?';
 $_['help_total'] = 'The checkout total the order must reach before this payment method becomes active';
-$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el módulo de pagos de PayPal Website Payment Pro (Reino Unido)!';
+$_['error_permission'] = 'Warning: You do not have permission to modify payment PayPal Payflow Pro!';
 $_['error_vendor'] = '¡Se requiere el vendedor!';
 $_['error_user'] = '¡Se requiere el usuario!';
 $_['error_password'] = '¡Se requiere la contraseña!';

@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Cheque o giro postal';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Success: You have modified cheque / money order account details!';
+$_['text_success'] = 'Éxito: ¡Has modificado los detalles de la cuenta de cheque y orden de pago!';
 $_['text_edit'] = 'Edit Cheque / Money Order';
 $_['entry_payable'] = 'Pagable a';
 $_['entry_total'] = 'Total';

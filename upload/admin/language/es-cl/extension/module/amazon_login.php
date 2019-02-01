@@ -1,6 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Iniciar sesión con Amazon';
+$_['text_module'] = 'Módulos';
 $_['text_extension'] = 'Extensiones';
 $_['text_success'] = 'Éxito: ¡Has modificado el módulo de Login with Amazon!';
 $_['text_content_top'] = 'Cabecera del contenido';

@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Mercado de extensiones';
-$_['text_success'] = 'Success: You have modified extensions!';
+$_['text_success'] = 'Éxito: ¡Has modificado las extensiones!';
 $_['text_list'] = 'Extension List';
 $_['text_filter'] = 'Filtro';
 $_['text_search'] = 'Buscar extensiones y temas';
@@ -26,7 +26,7 @@ $_['text_rating'] = 'Preferencia';
 $_['text_reviews'] = 'calificaciones';
 $_['text_compatibility'] = 'Compatibilidad';
 $_['text_downloaded'] = 'Descargado';
-$_['text_member_since'] = 'Member since:';
+$_['text_member_since'] = 'Miembro desde:';
 $_['text_price'] = 'Precio';
 $_['text_partner'] = 'Desarrollado por un socio de OpenCart';
 $_['text_support'] = '12 meses gratis de soporte';
@@ -51,8 +51,8 @@ $_['tab_download'] = 'Descarga';
 $_['tab_comment'] = 'Comentario';
 $_['button_opencart'] = 'API del mercado';
 $_['button_purchase'] = 'Compra';
-$_['button_view_all'] = 'View all extensions';
-$_['button_get_support'] = 'Get Support';
+$_['button_view_all'] = 'Ver todas las extensiones';
+$_['button_get_support'] = 'Obtener soporte';
 $_['button_comment'] = 'Comentario';
 $_['button_reply'] = 'Responder';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las extensiones!';

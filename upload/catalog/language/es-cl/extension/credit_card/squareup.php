@@ -1,6 +1,6 @@
 <?php
 
-$_['heading_title'] = 'Square Credit Cards';
+$_['heading_title'] = 'Tarjetas de crédito Square';
 $_['text_account'] = 'Cuenta';
 $_['text_back'] = 'Atrás';
 $_['text_delete'] = 'Eliminar';

@@ -19,4 +19,4 @@ $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_customer'] = 'Cliente';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Warning: You do not have permission to modify customer orders report!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de pedidos de los clientes!';

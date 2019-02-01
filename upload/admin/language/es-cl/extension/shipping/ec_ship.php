@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'EC-Ship';
 $_['text_extension'] = 'Extensión';
-$_['text_success'] = 'Success: You have modified EC-Ship shipping!';
+$_['text_success'] = 'Éxito: ¡Has modificado el módulo de envío de EC-Ship!';
 $_['text_edit'] = 'Edit EC-Ship Shipping';
 $_['text_air_registered_mail'] = 'Air Registered Mail';
 $_['text_air_parcel'] = 'Air Parcel(Package maxiumn weight 20KG)';
@@ -31,8 +31,8 @@ $_['help_username'] = 'Enter your EC-SHIP account Integrator username.';
 $_['help_api_username'] = 'Enter your EC-SHIP account API username.';
 $_['help_test'] = '¿Usar este módulo en modo de pruebas (YES) o de producción (NO)?';
 $_['help_service'] = 'Select the EC-SHIP services to be offered.';
-$_['help_weight_class'] = 'Set to kilograms only.';
-$_['error_permission'] = 'Warning: You do not have permission to modify EC-SHIP shipping!';
+$_['help_weight_class'] = 'Establecer solo en kilogramos.';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el módulo de envíos de EC-SHIP!';
 $_['error_api_key'] = 'Access API Key Required!';
 $_['error_username'] = '¡Se requiere el nombre de usuario!';
 $_['error_api_username'] = '¡Se requiere el nombre de usuario de la API!';
