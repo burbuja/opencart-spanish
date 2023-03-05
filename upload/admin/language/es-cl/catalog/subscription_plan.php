@@ -1,0 +1,37 @@
+<?php
+
+$_['heading_title'] = 'Planes de suscripción';
+$_['text_success'] = 'Éxito: ¡Has modificado los planes de suscripción!';
+$_['text_list'] = 'Lista de planes de suscripción';
+$_['text_add'] = 'Agregar plan de suscripción';
+$_['text_edit'] = 'Editar plan de suscripción';
+$_['text_subscription'] = 'Suscripción';
+$_['text_trial'] = 'Evaluación';
+$_['text_day'] = 'Día';
+$_['text_week'] = 'Semana';
+$_['text_semi_month'] = 'Quincena';
+$_['text_month'] = 'Mes';
+$_['text_year'] = 'Año';
+$_['entry_name'] = 'Nombre de plan de suscripción';
+$_['entry_trial_price'] = 'Precio de evaluación';
+$_['entry_trial_duration'] = 'Duración de evaluación';
+$_['entry_trial_cycle'] = 'Ciclo de evaluación';
+$_['entry_trial_frequency'] = 'Frecuencia de evaluación';
+$_['entry_trial_status'] = 'Estado de evaluación';
+$_['entry_price'] = 'Precio';
+$_['entry_duration'] = 'Duración';
+$_['entry_cycle'] = 'Ciclo';
+$_['entry_frequency'] = 'Frecuencia';
+$_['entry_status'] = 'Estado';
+$_['entry_sort_order'] = 'Orden';
+$_['column_name'] = 'Nombre de plan de suscripción';
+$_['column_sort_order'] = 'Orden';
+$_['column_action'] = 'Acción';
+$_['help_duration'] = 'La duración es el número de veces en que el usuario realizará un pago, establécelo en 0 si deseas pagos hasta que se anulen.';
+$_['help_cycle'] = 'Los montos de suscripción se calculan en base a la frecuencia y los ciclos.';
+$_['help_frequency'] = 'Si usas una frecuencia de "semana" y un ciclo de "2", entonces se realizará un cargo al usuario cada 2 semanas.';
+$_['error_warning'] = 'Aviso: ¡Por favor revise cuidadosamente los errores del formulario!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los planes de suscripción!';
+$_['error_name'] = '¡El nombre de plan de suscripción debe tener entre 3 y 255 caracteres!';
+$_['error_trial_duration'] = '¡La duración de la evaluación debe ser mayor a 0!';
+$_['error_product'] = 'Aviso: ¡No se puede eliminar este plan de suscripción porque se encuentra asignado a %s productos!';

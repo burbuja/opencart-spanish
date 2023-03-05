@@ -1,7 +1,6 @@
 <?php
 
 $_['heading_title'] = '¡Tu cuenta ha sido creada!';
-$_['text_message'] = '<p>Congratulations! Your new account has been successfully created!</p> <p>You can now take advantage of member privileges to enhance your online shopping experience with us.</p> <p>If you have ANY questions about the operation of this online shop, please e-mail the store owner.</p> <p>A confirmation has been sent to the provided e-mail address. If you have not received it within the hour, please <a href="%s">contact us</a>.</p>';
-$_['text_approval'] = '<p>Thank you for registering with %s!</p><p>You will be notified by e-mail once your account has been activated by the store owner.</p><p>If you have ANY questions about the operation of this online shop, please <a href="%s">contact the store owner</a>.</p>';
+$_['text_success'] = '<p>¡Felicitaciones! ¡Tu nueva cuenta se ha creado exitosamente!</p> <p>Ahora puedes tomar ventaja de los privilegios de ser miembro para mejorar tu experiencia de compra con nosotros.</p> <p>Si tienes alguna duda acerca de cómo operar con esta tienda, por favor envía un correo electrónico al dueño de la tienda.</p> <p>Una confirmación se ha enviado a la casilla de correo electrónico provista. Si no la has recibido dentro de una hora, por favor <a href="%s">contáctanos</a>.</p>';
+$_['text_approval'] = '<p>¡Gracias por registrarte en %s!</p><p>Recibirás una notificación por correo electrónico una vez que tu cuenta haya sido activada por el dueño de la tienda.</p><p>Si deseas realizar alguna consulta en relación a la operación de esta tienda en línea, por favor <a href="%s">ponte en contacto con el dueño de la tienda</a>.</p>';
 $_['text_account'] = 'Cuenta';
-$_['text_success'] = 'Éxito';

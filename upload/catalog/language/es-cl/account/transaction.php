@@ -7,4 +7,4 @@ $_['column_amount'] = 'Monto (%s)';
 $_['text_account'] = 'Cuenta';
 $_['text_transaction'] = 'Tus transacciones';
 $_['text_total'] = 'Tu saldo actual es de:';
-$_['text_empty'] = '¡No tienes transacciones!';
+$_['text_no_results'] = '¡No tienes transacciones!';

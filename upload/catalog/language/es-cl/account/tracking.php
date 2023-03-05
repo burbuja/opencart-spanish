@@ -1,9 +1,9 @@
 <?php
 
-$_['heading_title'] = 'Seguimiento del afiliado';
+$_['heading_title'] = 'Seguimiento de afiliados';
 $_['text_account'] = 'Cuenta';
-$_['text_description'] = 'To make sure you get paid for referrals you send to us we need to track the referral by placing a tracking code in the URL\'s linking to us. You can use the tools below to generate links to the %s web site.';
+$_['text_description'] = 'Para asegurarnos de que recibas los pagos por los referidos que nos envíes, necesitamos hacer seguimiento del referido al poner un código de seguimiento en las URL\'s que nos enlacen. Puedes usar las herramientas a continuación para generar enlaces al sitio web de %s.';
 $_['entry_code'] = 'Tu código de seguimiento';
 $_['entry_generator'] = 'Generador de enlaces de seguimiento';
 $_['entry_link'] = 'Enlace de seguimiento';
-$_['help_generator'] = 'Type in the name of a product you would like to link to';
+$_['help_generator'] = 'Comienza a escribir el nombre de un producto al que quisieras enlazar';

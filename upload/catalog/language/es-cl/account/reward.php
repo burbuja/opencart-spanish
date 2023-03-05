@@ -7,4 +7,4 @@ $_['column_points'] = 'Puntos';
 $_['text_account'] = 'Cuenta';
 $_['text_reward'] = 'Puntos';
 $_['text_total'] = 'La cantidad total de puntos que tienes es de:';
-$_['text_empty'] = '¡No tienes puntos!';
+$_['text_no_results'] = '¡No tienes puntos!';

@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Preferencias de desarrollador';
 $_['text_success'] = 'Éxito: ¡Has modificado las preferencias de desarrollador!';
-$_['text_theme'] = 'tema';
+$_['text_theme'] = 'Tema';
 $_['text_sass'] = 'SASS';
 $_['text_cache'] = 'Éxito: ¡Has limpiado el caché de %s!';
 $_['column_component'] = 'Componente';

@@ -3,12 +3,12 @@
 $_['heading_title'] = 'Eventos';
 $_['text_success'] = 'Éxito: ¡Has modificado los eventos!';
 $_['text_list'] = 'Lista de eventos';
-$_['text_event'] = 'Events are used by extensions to override the default functionality of your store. If you have issues you can disable or enable the events here.';
+$_['text_event'] = 'Los eventos son utilizados por las extensiones para pasar por alto la funcionalidad predeterminada de tu tienda. Si tienes problemas, puedes desactivar o activar los eventos aquí.';
 $_['text_info'] = 'Información del evento';
-$_['text_trigger'] = 'Trigger';
-$_['text_action'] = 'Acción';
 $_['column_code'] = 'Código de evento';
-$_['column_status'] = 'Estado';
 $_['column_sort_order'] = 'Orden';
 $_['column_action'] = 'Acción';
-$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las extensiones!';
+$_['entry_description'] = 'Descripción';
+$_['entry_trigger'] = 'Disparador';
+$_['entry_action'] = 'Acción';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los eventos!';

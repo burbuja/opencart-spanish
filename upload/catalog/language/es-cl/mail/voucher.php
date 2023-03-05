@@ -1,6 +1,6 @@
 <?php
 
-$_['text_subject'] = 'You have been sent a gift certificate from %s';
+$_['text_subject'] = 'Se te ha enviado una tarjeta de regalo desde %s';
 $_['text_greeting'] = 'Felicitaciones, has recibido una tarjeta de regalo de %s';
 $_['text_from'] = 'Esta tarjeta de regalo ha sido enviada a ti por %s';
 $_['text_message'] = 'Con un mensaje diciendo';
