@@ -1,7 +1,7 @@
 <?php
 
 $_['heading_title'] = 'Comparador de productos';
-$_['text_product'] = 'Detalles del producto';
+$_['text_product'] = 'Detalles de producto';
 $_['text_name'] = 'Producto';
 $_['text_image'] = 'Imagen';
 $_['text_price'] = 'Precio';

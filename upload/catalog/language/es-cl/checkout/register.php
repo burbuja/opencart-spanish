@@ -9,6 +9,7 @@ $_['text_shipping_address'] = 'Dirección de envío';
 $_['text_your_password'] = 'Tu contraseña';
 $_['text_agree'] = 'He leído y estoy de acuerdo con la <a href="%s" class="agree"><b>%s</b></a>';
 $_['text_success_add'] = 'Éxito: ¡Se ha creado tu cuenta!';
+$_['text_success_guest'] = 'Éxito: ¡Se ha guardado la información de tu cuenta de invitado!';
 $_['text_success_edit'] = 'Éxito: Tu cuenta ha sido actualizada exitosamente.';
 $_['entry_customer_group'] = 'Tipo de cuenta';
 $_['entry_firstname'] = 'Nombres';

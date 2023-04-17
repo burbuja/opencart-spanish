@@ -1,5 +1,6 @@
 <?php
 
+$_['text_points'] = 'Puntos';
 $_['text_subscription'] = 'Suscripción';
 $_['text_subscription_trial'] = '%s cada %d %s(s) para %d pago(s) entonces ';
 $_['text_subscription_duration'] = '%s cada %d %s(s) para %d pago(s)';

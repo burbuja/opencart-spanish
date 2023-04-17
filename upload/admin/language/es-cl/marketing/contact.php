@@ -26,4 +26,4 @@ $_['help_product'] = 'Enviar solo a clientes que hayan pedido productos en la li
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para enviar correos electrónicos!';
 $_['error_subject'] = '¡Se requiere el asunto del correo electrónico!';
 $_['error_message'] = '¡Se requiere el mensaje de correo electrónico!';
-$_['error_email'] = '¡Se requiere la dirección de correo electrónico!';
+$_['error_email'] = '¡No hay destinatarios de correo electrónico!';

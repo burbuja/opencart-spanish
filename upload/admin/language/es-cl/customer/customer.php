@@ -89,3 +89,4 @@ $_['error_postcode'] = '¡El código postal debe tener entre 2 y 10 caracteres p
 $_['error_country'] = '¡Por favor selecciona un país!';
 $_['error_zone'] = '¡Por favor selecciona una región o estado!';
 $_['error_custom_field'] = '¡Se requiere %s!';
+$_['error_regex'] = '¡%s no es una entrada válida!';

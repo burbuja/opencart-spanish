@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Perfil';
 $_['text_success'] = 'Éxito: ¡Has modificado tu perfil!';
 $_['text_edit'] = 'Edita tu perfil';
-$_['text_user'] = 'Detalles de usuarios';
+$_['text_user'] = 'Detalles de usuario';
 $_['text_password'] = 'Contraseña';
 $_['entry_username'] = 'Nombre de usuario';
 $_['entry_password'] = 'Contraseña';

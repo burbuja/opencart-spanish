@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Devoluciones de productos';
 $_['text_account'] = 'Cuenta';
 $_['text_return'] = 'Información de la devolución';
-$_['text_return_detail'] = 'Detalles de la devolución';
+$_['text_return_detail'] = 'Detalles de devolución';
 $_['text_description'] = 'Por favor llena el formulario de abajo para pedir un número RMA.';
 $_['text_order'] = 'Información del pedido';
 $_['text_product'] = 'Información del producto';

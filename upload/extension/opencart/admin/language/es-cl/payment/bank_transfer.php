@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Transferencia bancaria';
 $_['text_extension'] = 'Extensiones';
-$_['text_success'] = 'Éxito: ¡Has modificado los detalles de la transferencia bancaria!';
+$_['text_success'] = 'Éxito: ¡Has modificado los detalles de transferencia bancaria!';
 $_['text_edit'] = 'Editar transferencia bancaria';
 $_['entry_bank'] = 'Instrucciones para transferencia bancaria';
 $_['entry_order_status'] = 'Estado del pedido';
