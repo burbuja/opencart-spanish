@@ -21,4 +21,5 @@ $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los fabrican
 $_['error_name'] = '¡El nombre de fabricante debe tener entre 1 y 64 caracteres!';
 $_['error_keyword'] = '¡La URL para SEO debe tener entre 1 y 64 caracteres!';
 $_['error_keyword_exists'] = '¡La URL para SEO debe ser única!';
+$_['error_keyword_character'] = '¡La palabra clave sólo utiliza los caracteres a-z, 0-9, - y _!';
 $_['error_product'] = 'Aviso: ¡No se puede eliminar este fabricante debido a que se encuentra asignado a %s productos!';

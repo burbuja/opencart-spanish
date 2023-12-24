@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Aprobaciones de clientes';
 $_['text_success'] = 'Éxito: ¡Has modificado las aprobaciones de clientes!';
-$_['text_list'] = 'Listado de aprobación de clientes';
+$_['text_list'] = 'Lista de aprobación de clientes';
 $_['text_default'] = 'Predeterminado';
 $_['text_customer'] = 'Cliente';
 $_['text_affiliate'] = 'Afiliados';

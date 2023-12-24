@@ -4,7 +4,7 @@ $_['heading_title'] = 'Solicitud por Reglamento General de Protección de Datos'
 $_['text_account'] = 'Cuenta';
 $_['text_gdpr'] = 'Puedes revisar la política %s por RGPD en la página <a href="%s" target="_blank">%s</a>.';
 $_['text_verification'] = 'Verificación de la cuenta';
-$_['text_email'] = 'Antes de que llevemos a cabo alguna solicitud por RGPD, debemos validar tu cuenta. Por favor ingresa tu dirección de correo electrónico a continuación.';
+$_['text_email'] = 'Antes de que realicemos alguna solicitud por RGPD, debemos validar tu cuenta. Por favor ingresa tu dirección de correo electrónico a continuación.';
 $_['text_action'] = 'Elige una acción';
 $_['text_export'] = 'Exportar datos personales';
 $_['text_remove'] = 'Eliminar información personal';

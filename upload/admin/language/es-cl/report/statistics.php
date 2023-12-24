@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Estadísticas';
 $_['text_success'] = 'Éxito: ¡Has modificado el módulo de estadísticas!';
-$_['text_list'] = 'Listado de estadísticas';
+$_['text_list'] = 'Lista de estadísticas';
 $_['text_order_sale'] = 'Ventas de pedidos';
 $_['text_order_processing'] = 'Pedidos en proceso';
 $_['text_order_complete'] = 'Pedidos completos';

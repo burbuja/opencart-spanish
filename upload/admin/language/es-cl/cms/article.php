@@ -1,0 +1,35 @@
+<?php
+
+$_['heading_title'] = 'Artículos';
+$_['text_success'] = 'Éxito: ¡Has modificado los artículos!';
+$_['text_list'] = 'Lista de artículos';
+$_['text_add'] = 'Agregar artículo';
+$_['text_edit'] = 'Editar artículo';
+$_['text_default'] = 'Predeterminado';
+$_['text_keyword'] = 'No uses espacios, en su lugar reemplaza los espacios por guiones y asegúrate de que el URL para SEO sea globalmente único.';
+$_['column_name'] = 'Nombre de producto';
+$_['column_author'] = 'Autor';
+$_['column_date_added'] = 'Fecha de alta';
+$_['column_action'] = 'Acción';
+$_['entry_image'] = 'Imagen';
+$_['entry_name'] = 'Nombre de producto';
+$_['entry_description'] = 'Descripción';
+$_['entry_tag'] = 'Etiquetas';
+$_['entry_meta_title'] = 'Título de la etiqueta meta';
+$_['entry_meta_keyword'] = 'Palabras clave de la etiqueta meta';
+$_['entry_meta_description'] = 'Descripción de la etiqueta meta';
+$_['entry_topic'] = 'Tema';
+$_['entry_author'] = 'Autor';
+$_['entry_store'] = 'Tiendas';
+$_['entry_sort_order'] = 'Orden';
+$_['entry_status'] = 'Estado';
+$_['entry_keyword'] = 'Palabra clave';
+$_['entry_layout'] = 'Pasar por alto la disposición';
+$_['error_warning'] = 'Aviso: ¡Por favor revise cuidadosamente los errores del formulario!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el módulo de productos!';
+$_['error_name'] = '¡El nombre del artículo debe tener entre 1 y 255 caracteres!';
+$_['error_meta_title'] = 'El metatítulo debe tener entre 1 y 255 caracteres!';
+$_['error_keyword'] = '¡La URL para SEO debe tener entre 1 y 64 caracteres!';
+$_['error_keyword_exists'] = '¡La URL para SEO debe ser única!';
+$_['error_keyword_character'] = '¡La palabra clave sólo utiliza los caracteres a-z, 0-9, - y _!';
+$_['error_author'] = '¡El autor debe tener entre 3 y 64 caracteres!';

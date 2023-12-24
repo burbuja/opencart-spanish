@@ -2,9 +2,9 @@
 
 $_['heading_title'] = 'Preinstalación';
 $_['text_step_2'] = 'Verifica que tu servidor esté configurado correctamente';
-$_['text_install_php'] = '1. Por favor configura tus preferencias de PHP para satisfacer los requerimientos listados más abajo.';
+$_['text_install_php'] = '1. Por favor configura tus preferencias de PHP para satisfacer los requerimientos listados a continuación.';
 $_['text_install_extension'] = '2. Por favor asegúrate de que las siguientes extensiones PHP estén instaladas.';
-$_['text_install_file'] = '3. Por favor asegúrate de tener establecidos los permisos correctos en los siguientes archivos.';
+$_['text_install_file'] = '3. Por favor asegúrate de tener establecidos los permisos correctos en los archivos listados a continuación.';
 $_['text_setting'] = 'Preferencias de PHP';
 $_['text_current'] = 'Preferencias actuales';
 $_['text_required'] = 'Preferencias requeridas';

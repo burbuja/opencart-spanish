@@ -13,7 +13,7 @@ $_['text_agree'] = 'He leído y estoy de acuerdo con la <a href="%s" class="agre
 $_['entry_company'] = 'Empresa';
 $_['entry_website'] = 'Sitio web';
 $_['entry_tax'] = 'ID de impuesto';
-$_['entry_payment'] = 'Método de pago';
+$_['entry_payment_method'] = 'Método de pago';
 $_['entry_cheque'] = 'Nombre de pagador de cheque';
 $_['entry_paypal'] = 'Cuenta de correo electrónico en PayPal';
 $_['entry_bank_name'] = 'Nombre de banco';
@@ -23,6 +23,7 @@ $_['entry_bank_account_name'] = 'Nombre de cuenta';
 $_['entry_bank_account_number'] = 'Número de cuenta';
 $_['error_token'] = 'Aviso: ¡El token de afiliado no es válido!';
 $_['error_agree'] = 'Aviso: ¡Debes estar de acuerdo con el %s!';
+$_['error_payment_method'] = '¡Se requiere el método de pago!';
 $_['error_cheque'] = '¡Se requiere el nombre del pagador del cheque!';
 $_['error_paypal'] = '¡La dirección de correo electrónico de PayPal no parece ser válida!';
 $_['error_bank_account_name'] = '¡Se requiere el nombre de cuenta!';

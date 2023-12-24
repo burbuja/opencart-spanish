@@ -2,7 +2,7 @@
 
 $_['text_subject'] = '%s - Pedido %s';
 $_['text_greeting'] = 'Gracias por tu interés en %s productos. Se ha recibido tu pedido y se procesará una vez que el pago se haya confirmado.';
-$_['text_link'] = 'Para ver tu pedido, haz clic en el enlace más abajo:';
+$_['text_link'] = 'Para ver tu pedido, haz clic en el siguiente enlace:';
 $_['text_order_detail'] = 'Detalles de pedido';
 $_['text_instruction'] = 'Instrucciones';
 $_['text_order_id'] = 'ID de pedido:';

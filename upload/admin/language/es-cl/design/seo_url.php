@@ -1,8 +1,8 @@
 <?php
 
-$_['heading_title'] = 'URL\'s para SEO';
+$_['heading_title'] = 'URL para SEO';
 $_['text_success'] = 'Éxito: ¡Has modificado la URL para SEO!';
-$_['text_list'] = 'Lista de URL\'s para SEO';
+$_['text_list'] = 'Lista de URL para SEO';
 $_['text_add'] = 'Agregar URL para SEO';
 $_['text_edit'] = 'Editar URL para SEO';
 $_['text_filter'] = 'Filtrar';
@@ -10,6 +10,7 @@ $_['text_default'] = 'Predeterminado';
 $_['column_key'] = 'Clave';
 $_['column_value'] = 'Valor';
 $_['column_keyword'] = 'Palabra clave';
+$_['column_sort_order'] = 'Orden';
 $_['column_store'] = 'Tienda';
 $_['column_language'] = 'Idioma';
 $_['column_action'] = 'Acción';
@@ -19,12 +20,13 @@ $_['entry_key'] = 'Clave';
 $_['entry_value'] = 'Valor';
 $_['entry_keyword'] = 'Palabra clave';
 $_['entry_sort_order'] = 'Orden';
-$_['help_keyword'] = 'Asegúrate de utilizar sólo caracteres dentro del rango a-z o 0-9 y - o _ para espacios. Déjalo en blanco si sólo quieres quitar el parámetro.';
+$_['help_keyword'] = 'Asegúrate de utilizar sólo los caracteres a-z o 0-9 y - o _ para espacios. Utiliza / para categorías.';
 $_['help_sort_order'] = 'El orden de las palabras claves en la URL.';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar la URL para SEO!';
 $_['error_exists'] = 'Aviso: ¡La combinación de tienda, tecla de idioma, valor y palabra clave ya existe!';
 $_['error_key'] = '¡La clave debe tener entre 1 y 64 caracteres!';
 $_['error_value'] = '¡El valor debe tener entre 1 y 255 caracteres!';
 $_['error_value_exists'] = '¡El valor ya está en uso!';
-$_['error_keyword'] = '¡La palabra clave debe tener entre 3 y 64 caracteres!';
+$_['error_keyword'] = '¡La palabra clave debe tener entre 1 y 64 caracteres!';
 $_['error_keyword_exists'] = '¡La palabra clave ya está en uso!';
+$_['error_keyword_character'] = '¡La palabra clave sólo utiliza los caracteres a-z, 0-9, - y _!';

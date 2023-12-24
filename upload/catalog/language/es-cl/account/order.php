@@ -1,16 +1,16 @@
 <?php
 
-$_['heading_title'] = 'Historial de pedidos';
+$_['heading_title'] = 'Pedidos';
 $_['text_account'] = 'Cuenta';
-$_['text_order'] = 'Información del pedido';
-$_['text_order_detail'] = 'Detalles de pedido';
-$_['text_invoice_no'] = 'Número del recibo:';
-$_['text_order_id'] = 'ID de pedido:';
-$_['text_date_added'] = 'Fecha de alta:';
+$_['text_order'] = 'Pedido N°%s';
+$_['text_invoice_no'] = 'Invoice No.';
+$_['text_order_id'] = 'ID de pedido';
+$_['text_order_status'] = 'Estado del pedido';
+$_['text_shipping_method'] = 'Método de envío';
+$_['text_payment_method'] = 'Método de pago';
+$_['text_date_added'] = 'Fecha de alta';
 $_['text_shipping_address'] = 'Dirección de envío';
-$_['text_shipping_method'] = 'Método de envío:';
 $_['text_payment_address'] = 'Dirección de pago';
-$_['text_payment_method'] = 'Método de pago:';
 $_['text_subscription'] = 'Suscripción';
 $_['text_subscription_trial'] = '%s cada %d %s(s) para %d pago(s) entonces ';
 $_['text_subscription_duration'] = '%s cada %d %s(s) para %d pago(s)';
@@ -34,7 +34,7 @@ $_['column_quantity'] = 'Cantidad';
 $_['column_price'] = 'Precio';
 $_['column_total'] = 'Total';
 $_['column_action'] = 'Acción';
-$_['column_date_added'] = 'Fecha de alta';
 $_['column_status'] = 'Estado';
 $_['column_comment'] = 'Comentario';
+$_['column_date_added'] = 'Fecha de alta';
 $_['error_reorder'] = '%s no está disponible como para volver a realizar un pedido.';

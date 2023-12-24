@@ -11,6 +11,7 @@ $_['column_sort_order'] = 'Orden';
 $_['column_action'] = 'Acción';
 $_['entry_name'] = 'Nombre de idioma';
 $_['entry_code'] = 'Código';
+$_['entry_extension'] = 'Extensión';
 $_['entry_locale'] = 'Configuración regional';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';

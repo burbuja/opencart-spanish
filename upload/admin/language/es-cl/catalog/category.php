@@ -34,6 +34,6 @@ $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar las categor�
 $_['error_name'] = '¡El nombre de categoría debe tener entre 1 y 255 caracteres!';
 $_['error_meta_title'] = 'El metatítulo debe tener entre 1 y 255 caracteres!';
 $_['error_parent'] = '¡La categoría padre que elegiste es una categoría hija de la actual!';
-$_['error_seo'] = '¡Se requiere la palabra clave del URL para SEO!';
 $_['error_keyword'] = '¡La URL para SEO debe tener entre 1 y 64 caracteres!';
 $_['error_keyword_exists'] = '¡La URL para SEO debe ser única!';
+$_['error_keyword_character'] = '¡La palabra clave sólo utiliza los caracteres a-z, 0-9, - y _!';

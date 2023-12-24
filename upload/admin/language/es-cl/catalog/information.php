@@ -29,6 +29,7 @@ $_['error_description'] = '¡La descripción debe tener más de 3 caracteres!';
 $_['error_meta_title'] = 'El metatítulo debe tener entre 1 y 255 caracteres!';
 $_['error_keyword'] = '¡La URL para SEO debe tener entre 1 y 64 caracteres!';
 $_['error_keyword_exists'] = '¡La URL para SEO debe ser única!';
+$_['error_keyword_character'] = '¡La palabra clave sólo utiliza los caracteres a-z, 0-9, - y _!';
 $_['error_account'] = 'Aviso: ¡No se puede eliminar esta página de información debido a que se encuentra asignada como los términos de la cuenta de la tienda!';
 $_['error_checkout'] = 'Aviso: ¡No se puede eliminar esta página de información debido a que se encuentra asignada como los términos de compra de la tienda!';
 $_['error_affiliate'] = 'Aviso: ¡No se puede eliminar esta página de información debido a que se encuentra asignada como los términos de afiliados de la tienda!';
