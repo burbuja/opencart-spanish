@@ -67,6 +67,29 @@ class Spanish extends \Opencart\System\Engine\Controller {
 
 	public function install(): void {
 		if ($this->user->hasPermission('modify', 'extension/language')) {
+			$this->load->model('setting/event');
+			$events = [
+				[
+					'code' => 'burbuja_opencart_spanish_admin_get_languages_set_flag',
+					'description' => '',
+					'trigger' => 'admin/model/localisation/language/getLanguages/after',
+					'action' => 'extension/opencart_spanish/language/spanish.setFlag',
+					'status' => true,
+					'sort_order' => 1,
+				],
+				[
+					'code' => 'burbuja_opencart_spanish_catalog_get_languages_set_flag',
+					'description' => '',
+					'trigger' => 'catalog/model/localisation/language/getLanguages/after',
+					'action' => 'extension/opencart_spanish/language/spanish.setFlag',
+					'status' => true,
+					'sort_order' => 1,
+				],
+			];
+			foreach ($events as $event) {
+				$this->model_setting_event->deleteEventByCode($event['code']);
+				$this->model_setting_event->addEvent($event);
+			}
 			// Add language
 			$language_data = [
 				'name'       => 'Español',
@@ -85,6 +108,15 @@ class Spanish extends \Opencart\System\Engine\Controller {
 
 	public function uninstall(): void {
 		if ($this->user->hasPermission('modify', 'extension/language')) {
+			$this->load->model('setting/event');
+			$event_codes = [
+				'burbuja_opencart_spanish_admin_get_languages_set_flag',
+				'burbuja_opencart_spanish_catalog_get_languages_set_flag',
+			];
+			foreach ($event_codes as $event_code) {
+				$this->model_setting_event->deleteEventByCode($event_code);
+			}
+
 			$this->load->model('localisation/language');
 
 			$language_info = $this->model_localisation_language->getLanguageByCode('es-cl');
@@ -92,6 +124,32 @@ class Spanish extends \Opencart\System\Engine\Controller {
 			if ($language_info) {
 				$this->model_localisation_language->deleteLanguage($language_info['language_id']);
 			}
+		}
+	}
+
+	public function setFlag(string &$route, array &$args, array &$output): array {
+		if (isset($output['es-cl']['image'])) {
+			$this->load->model('localisation/country');
+
+			$countries = $this->model_localisation_country->getCountries();
+
+			$config_country_id = $this->config->get('config_country_id');
+
+			$country_id = array_search($config_country_id, array_column($countries, 'country_id'));
+
+			$country_code = strtolower($countries[$country_id]['iso_code_2']);
+
+			$flags = [
+				'ar', 'bo', 'cl', 'co', 'cr', 'cu', 'do', 'ec', 'es', 'gq', 'gt', 'hn', 'mx', 'ni', 'pa', 'pe', 'pr', 'py', 'sv', 'uy', 've'
+			];
+
+			if (!in_array($country_code, $flags)) {
+				$country_code = 'es';
+			}
+
+			$output['es-cl']['image'] = HTTP_CATALOG . 'extension/opencart_spanish/catalog/language/es-cl/es-' . $country_code . '.png';
+
+			return $output;
 		}
 	}
 }
