@@ -9,7 +9,7 @@ $_['text_newsletter'] = 'Boletín informativo';
 $_['text_your_password'] = 'Tu contraseña';
 $_['text_agree'] = 'He leído y estoy de acuerdo con la <a href="%s" class="agree"><b>%s</b></a>';
 $_['entry_customer_group'] = 'Grupo de clientes';
-$_['entry_firstname'] = 'Nombres';
+$_['entry_firstname'] = 'Nombre';
 $_['entry_lastname'] = 'Apellidos';
 $_['entry_email'] = 'Correo electrónico';
 $_['entry_telephone'] = 'Teléfono';
