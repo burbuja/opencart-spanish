@@ -3,7 +3,6 @@
 $_['heading_title'] = 'Busca tu marca favorita';
 $_['text_brand'] = 'Marca';
 $_['text_index'] = 'Índice de marca:';
-$_['text_error'] = '¡No se encuentra la marca!';
 $_['text_no_results'] = 'No hay productos para listar.';
 $_['text_compare'] = 'Comparador de productos (%s)';
 $_['text_sort'] = 'Ordenar por';

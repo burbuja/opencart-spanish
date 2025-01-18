@@ -25,5 +25,5 @@ $_['error_email'] = '¡La dirección de correo electrónico no parece ser válid
 $_['error_telephone'] = '¡El teléfono debe tener entre 3 y 32 caracteres!';
 $_['error_custom_field'] = '¡Se requiere %s!';
 $_['error_regex'] = '¡%s no es una entrada válida!';
-$_['error_password'] = '¡La contraseña debe tener entre 4 y 20 caracteres!';
+$_['error_password'] = '¡La contraseña debe tener entre 6 y 20 caracteres!';
 $_['error_agree'] = 'Aviso: ¡Debes estar de acuerdo con el %s!';

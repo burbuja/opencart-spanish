@@ -12,5 +12,5 @@ $_['entry_email'] = 'Dirección de correo electrónico';
 $_['error_email'] = 'Aviso: ¡No se encontró la dirección de correo electrónico en nuestros registros!';
 $_['error_code'] = '¡No coincide el código de restablecimiento!';
 $_['error_disabled'] = '¡La contraseña se ha restablecido!';
-$_['error_password'] = '¡La contraseña debe tener entre 4 y 20 caracteres!';
+$_['error_password'] = '¡La contraseña debe tener entre 6 y 20 caracteres!';
 $_['error_confirm'] = '¡La contraseña y la confirmación de la contraseña no coinciden!';

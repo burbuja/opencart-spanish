@@ -9,7 +9,6 @@ $_['text_return'] = 'Devoluciones';
 $_['text_sitemap'] = 'Mapa del sitio';
 $_['text_gdpr'] = 'RGPD';
 $_['text_manufacturer'] = 'Marcas';
-$_['text_voucher'] = 'Tarjetas de regalo';
 $_['text_affiliate'] = 'Afiliados';
 $_['text_special'] = 'Ofertas especiales';
 $_['text_account'] = 'Mi cuenta';

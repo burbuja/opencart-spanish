@@ -8,6 +8,7 @@ $_['text_agree'] = 'He leído y estoy de acuerdo con la <a href="%s" class="agre
 $_['text_success'] = 'Éxito: ¡Has cambiado el método de pago!';
 $_['text_comment'] = 'Éxito: ¡Comentario agregado!';
 $_['entry_payment_method'] = 'Elige el método de pago...';
+$_['error_order'] = '¡No se encuentra el pedido! Por favor recarga la página.';
 $_['error_customer'] = '¡Se requiere el cliente!';
 $_['error_payment_address'] = '¡Se requiere la dirección de facturación!';
 $_['error_shipping_address'] = '¡Se requiere la dirección de envío!';

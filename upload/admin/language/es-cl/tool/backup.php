@@ -2,11 +2,11 @@
 
 $_['heading_title'] = 'Respaldo y restauración';
 $_['text_success'] = 'Éxito: ¡Has modificado exitosamente tu base de datos!';
+$_['text_progress'] = 'Progreso del respaldo';
 $_['text_backup'] = 'Respaldar %s registros de tabla %s a %s registros';
 $_['text_restore'] = 'Restaurando %s de %s';
 $_['text_option'] = 'Opciones de respaldo';
 $_['text_history'] = 'Historial de respaldos';
-$_['text_progress'] = 'Progreso';
 $_['text_import'] = 'Para archivos de respaldo grandes es mejor cargar el archivo SQL a través de FTP al directorio <strong>~/storage/backup/</strong>.';
 $_['column_filename'] = 'Nombre de archivo';
 $_['column_size'] = 'Tamaño';

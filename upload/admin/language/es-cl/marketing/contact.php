@@ -3,7 +3,7 @@
 $_['heading_title'] = 'Correo';
 $_['text_mail'] = 'Enviar correos electrónicos a clientes';
 $_['text_success'] = '¡Tu mensaje ha sido enviado exitosamente!';
-$_['text_sent'] = '¡Tu mensaje se ha enviado exitosamente a %s - %s destinatarios!';
+$_['text_sent'] = '¡Tu mensaje se ha enviado exitosamente a %s a %s de %s destinatarios!';
 $_['text_default'] = 'Predeterminado';
 $_['text_newsletter'] = 'Todos los suscriptores del boletín';
 $_['text_customer_all'] = 'Todos los clientes';

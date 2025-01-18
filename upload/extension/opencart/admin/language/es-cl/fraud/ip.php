@@ -1,7 +1,8 @@
 <?php
 
-$_['heading_title'] = 'Dirección IP antifraude';
+$_['heading_title'] = 'IP';
 $_['text_extension'] = 'Extensiones';
+$_['text_fraud'] = 'Antifraude';
 $_['text_success'] = 'Éxito: ¡Has modificado la dirección IP antifraude!';
 $_['text_edit'] = 'Editar dirección IP antifraude';
 $_['text_ip_add'] = 'Agregar dirección IP';

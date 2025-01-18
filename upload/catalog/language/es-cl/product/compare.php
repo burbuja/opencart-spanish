@@ -8,7 +8,6 @@ $_['text_price'] = 'Precio';
 $_['text_model'] = 'Modelo';
 $_['text_manufacturer'] = 'Marca';
 $_['text_availability'] = 'Disponibilidad';
-$_['text_instock'] = 'Disponible';
 $_['text_rating'] = 'Calificación';
 $_['text_reviews'] = 'Basado en %s comentarios.';
 $_['text_summary'] = 'Resumen';

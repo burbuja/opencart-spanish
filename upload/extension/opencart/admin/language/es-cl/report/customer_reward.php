@@ -2,8 +2,8 @@
 
 $_['heading_title'] = 'Informe de puntos de clientes';
 $_['text_extension'] = 'Extensiones';
-$_['text_edit'] = 'Editar informe de puntos de recompensa de clientes';
-$_['text_success'] = 'Éxito: ¡Has modificado el informe de puntos de recompensa!';
+$_['text_edit'] = 'Editar informe de puntos de clientes';
+$_['text_success'] = 'Éxito: ¡Has modificado el informe de puntos!';
 $_['text_filter'] = 'Filtrar';
 $_['column_customer'] = 'Nombre de cliente';
 $_['column_email'] = 'Correo electrónico';
@@ -18,4 +18,4 @@ $_['entry_date_end'] = 'Fecha de fin';
 $_['entry_customer'] = 'Cliente';
 $_['entry_status'] = 'Estado';
 $_['entry_sort_order'] = 'Orden';
-$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de puntos de recompensa!';
+$_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar el informe de puntos!';

@@ -2,7 +2,6 @@
 
 $_['heading_title'] = 'Mi lista de deseos';
 $_['text_account'] = 'Cuenta';
-$_['text_instock'] = 'Disponible';
 $_['text_wishlist'] = 'Lista de deseos (%s)';
 $_['text_login'] = '¡Debes <a href="%s">iniciar sesión</a> o <a href="%s">crear una cuenta</a> para guardar <a href="%s">%s</a> en tu <a href="%s">lista de deseos</a>!';
 $_['text_success'] = 'Éxito: ¡Has agregado <a href="%s">%s</a> a tu <a href="%s">lista de deseos</a>!';
@@ -15,3 +14,4 @@ $_['column_stock'] = 'Existencias';
 $_['column_price'] = 'Precio por unidad';
 $_['column_action'] = 'Acción';
 $_['error_product'] = 'Aviso: ¡No se pudo encontrar el producto!';
+$_['error_login'] = 'Aviso: ¡Debes <a href="%s">iniciar sesión</a> o <a href="%s">crear una cuenta</a> para quitar artículos de tu <a href="%s">lista de deseos</a>!';

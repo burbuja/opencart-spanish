@@ -2,7 +2,7 @@
 
 $_['heading_title'] = 'Comentarios';
 $_['text_success'] = 'Éxito: ¡Has modificado los comentarios!';
-$_['text_next'] = 'Éxito: ¡Has modificado %s de %s calificaciones de producto!';
+$_['text_next'] = 'Éxito: ¡Modificaste %s a %s de %s calificaciones de producto!';
 $_['text_list'] = 'Lista de comentarios';
 $_['text_add'] = 'Agregar comentario';
 $_['text_edit'] = 'Editar comentario';
@@ -18,11 +18,12 @@ $_['entry_author'] = 'Autor';
 $_['entry_rating'] = 'Calificación';
 $_['entry_status'] = 'Estado';
 $_['entry_text'] = 'Texto';
+$_['entry_date_added'] = 'Fecha de alta';
 $_['entry_date_from'] = 'Fecha de inicio';
 $_['entry_date_to'] = 'Fecha de fin';
 $_['help_product'] = '(Se completa automáticamente)';
 $_['button_rating'] = 'Sincronizar calificaciones de producto';
-$_['error_warning'] = 'Aviso: ¡Por favor revise cuidadosamente los errores del formulario!';
+$_['error_warning'] = 'Aviso: ¡Por favor revisa cuidadosamente los errores del formulario!';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los comentarios!';
 $_['error_product'] = '¡Se requiere el producto!';
 $_['error_author'] = '¡El autor debe tener entre 3 y 64 caracteres!';

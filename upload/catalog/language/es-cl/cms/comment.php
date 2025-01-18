@@ -1,0 +1,35 @@
+<?php
+
+$_['heading_title'] = 'Comentarios';
+$_['text_by'] = 'Por';
+$_['text_write'] = 'Escribe un comentario';
+$_['text_login'] = 'Por favor <a href="%s">inicia sesión</a> o <a href="%s">regístrate</a> para comentar';
+$_['text_no_results'] = 'Sé la primera persona en escribir un comentario para este artículo.';
+$_['text_sort'] = 'Ordenar por';
+$_['text_rating_asc'] = 'Calificación (la más baja)';
+$_['text_rating_desc'] = 'Calificación (la más alta)';
+$_['text_date_added_asc'] = 'Fecha de alta (la más antigua)';
+$_['text_date_added_desc'] = 'Fecha de alta (la más reciente)';
+$_['text_like'] = '¡Me gusta!';
+$_['text_dislike'] = '¡No me gusta!';
+$_['text_success'] = 'Éxito: ¡Gracias por tu comentario!';
+$_['text_queue'] = 'Éxito: ¡Tu comentario se ha agregado a la cola de moderación!';
+$_['text_rating'] = 'Éxito: ¡Gracias por tu calificación!';
+$_['entry_author'] = 'Tu nombre';
+$_['entry_comment'] = 'Comentario';
+$_['button_comment'] = 'Publicar comentario';
+$_['button_reply'] = 'Publicar respuesta';
+$_['button_replies'] = 'Mostrar respuestas';
+$_['button_more'] = 'Ver más respuestas...';
+$_['button_login'] = 'Inicia sesión para comentar';
+$_['button_login_reply'] = 'Iniciar sesión para responder';
+$_['button_like'] = 'Me gusta';
+$_['button_dislike'] = 'No me gusta';
+$_['error_article'] = 'Aviso: ¡No se pudo encontrar el artículo!';
+$_['error_article_comment'] = 'Aviso: ¡No se pudo encontrar el comentario del artículo!';
+$_['error_token'] = 'Aviso: ¡El token de comentario no es válido!';
+$_['error_author'] = '¡Tu nombre debe tener entre 1 y 25 caracteres!';
+$_['error_comment'] = '¡El comentario debe tener entre 25 y 1000 caracteres!';
+$_['error_interval'] = 'Aviso: ¡Debes esperar %s minutos antes de realizar otro comentario!';
+$_['error_login'] = '¡Debes iniciar sesión para comentar en el artículo o calificarlo!';
+$_['error_status'] = '¡Los comentarios están deshabilitados!';
