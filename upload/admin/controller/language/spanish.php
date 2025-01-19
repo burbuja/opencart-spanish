@@ -72,7 +72,7 @@ class Spanish extends \Opencart\System\Engine\Controller {
 				[
 					'code' => 'burbuja_opencart_spanish_admin_get_languages_set_flag',
 					'description' => '',
-					'trigger' => 'admin/model/localisation/language/getLanguages/after',
+					'trigger' => 'admin/model/localisation/language.getLanguages/after',
 					'action' => 'extension/opencart_spanish/language/spanish.setFlag',
 					'status' => true,
 					'sort_order' => 1,
@@ -80,7 +80,7 @@ class Spanish extends \Opencart\System\Engine\Controller {
 				[
 					'code' => 'burbuja_opencart_spanish_catalog_get_languages_set_flag',
 					'description' => '',
-					'trigger' => 'catalog/model/localisation/language/getLanguages/after',
+					'trigger' => 'catalog/model/localisation/language.getLanguages/after',
 					'action' => 'extension/opencart_spanish/language/spanish.setFlag',
 					'status' => true,
 					'sort_order' => 1,
