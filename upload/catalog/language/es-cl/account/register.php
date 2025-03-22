@@ -29,5 +29,5 @@ $_['error_password_uppercase'] = 'mayúscula';
 $_['error_password_lowercase'] = 'minúscula';
 $_['error_password_number'] = 'número';
 $_['error_password_symbol'] = 'símbolo';
-$_['error_password_length'] = 'Password must be between %d and 40 characters!';
+$_['error_password_length'] = '¡La contraseña debe tener entre %d y 40 caracteres!';
 $_['error_agree'] = 'Aviso: ¡Debes estar de acuerdo con el %s!';
