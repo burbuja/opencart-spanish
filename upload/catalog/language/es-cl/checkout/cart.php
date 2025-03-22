@@ -27,5 +27,6 @@ $_['column_total'] = 'Total';
 $_['error_stock'] = '¡Los productos marcados con *** no están disponibles en la cantidad deseada o se encuentran agotados!';
 $_['error_minimum'] = '¡El monto mínimo del pedido es de %s!';
 $_['error_required'] = '¡Se requiere %s!';
+$_['error_regex'] = '¡%s no es una entrada válida!';
 $_['error_product'] = 'Aviso: ¡No se pudo encontrar el producto!';
 $_['error_subscription'] = '¡El plan de suscripción no es válido!';

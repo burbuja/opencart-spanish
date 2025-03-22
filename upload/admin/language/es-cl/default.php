@@ -89,6 +89,7 @@ $_['button_customer_add'] = 'Agregar cliente';
 $_['button_approve'] = 'Aprobar';
 $_['button_deny'] = 'Rechazar';
 $_['button_reset'] = 'Restablecer';
+$_['button_login'] = 'Iniciar sesión';
 $_['button_generate'] = 'Generar';
 $_['button_view'] = 'Ver';
 $_['button_reward_add'] = 'Agregar puntos';

@@ -78,5 +78,5 @@ $_['error_upload_8'] = 'Aviso: ¡La carga de archivo fue detenida debido a su ex
 $_['error_upload_999'] = 'Aviso: ¡No hay código de error disponible!';
 $_['error_upload_size'] = 'Aviso: ¡El archivo cargado excede el tamaño máximo: %s megabytes!';
 $_['error_curl'] = 'CURL: Código de error(%s): %s';
-$_['error_session'] = 'Aviso: ¡La sesión ha expirado, por favor envía el formulario otra vez!';
+$_['error_session'] = 'Aviso: ¡La sesión ha caducado, por favor envía el formulario otra vez!';
 $_['datepicker'] = 'es-cl';

@@ -7,6 +7,7 @@ $_['text_add'] = 'Agregar fabricante';
 $_['text_edit'] = 'Editar fabricante';
 $_['text_default'] = 'Predeterminado';
 $_['text_keyword'] = 'No uses espacios, en su lugar reemplaza los espacios por guiones y asegúrate de que el URL para SEO sea globalmente único.';
+$_['column_image'] = 'Imagen';
 $_['column_name'] = 'Nombre de fabricante';
 $_['column_sort_order'] = 'Orden';
 $_['column_action'] = 'Acción';

@@ -17,3 +17,4 @@ $_['text_return'] = 'Devoluciones';
 $_['text_transaction'] = 'Transacciones';
 $_['text_newsletter'] = 'Boletín informativo';
 $_['text_subscription'] = 'Suscripciones';
+$_['text_payment_method'] = 'Métodos de pago';

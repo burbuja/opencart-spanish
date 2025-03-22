@@ -12,6 +12,7 @@ $_['column_status'] = 'Estado';
 $_['column_ip'] = 'IP';
 $_['column_call'] = 'Llamar';
 $_['column_date_added'] = 'Fecha de alta';
+$_['column_date_modified'] = 'Fecha de modificación';
 $_['column_action'] = 'Acción';
 $_['entry_username'] = 'Nombre de usuario de API';
 $_['entry_key'] = 'Clave de la API';

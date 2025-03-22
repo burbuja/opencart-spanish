@@ -16,6 +16,7 @@ $_['entry_telephone'] = 'Teléfono';
 $_['entry_image'] = 'Imagen';
 $_['entry_open'] = 'Horario de atención';
 $_['entry_comment'] = 'Comentario';
+$_['help_telephone'] = 'Por favor ingresa el número de teléfono de la ubicación de tu tienda.';
 $_['help_geocode'] = 'Por favor ingresa manualmente el geocódigo de la ubicación de la tienda.';
 $_['help_open'] = 'Llena los campos con los horarios de apertura de tu tienda.';
 $_['help_comment'] = 'Este campo es para notas especiales que te gustaría entregar al cliente. P.ej. la tienda no acepta cheques.';

@@ -20,6 +20,7 @@ $_['entry_store'] = 'Tiendas';
 $_['entry_sort_order'] = 'Orden';
 $_['entry_status'] = 'Estado';
 $_['entry_keyword'] = 'Palabra clave';
+$_['entry_layout'] = 'Pasar por alto la disposición';
 $_['error_warning'] = 'Aviso: ¡Por favor revisa cuidadosamente los errores del formulario!';
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los temas!';
 $_['error_name'] = 'El tema debe tener entre 1 t 255 caracteres!';

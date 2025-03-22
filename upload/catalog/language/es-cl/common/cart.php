@@ -11,6 +11,7 @@ $_['text_semi_month'] = 'mitad de mes';
 $_['text_month'] = 'mes';
 $_['text_year'] = 'año';
 $_['text_no_results'] = '¡Tu carro de compras está vacío!';
+$_['text_model'] = 'Modelo';
 $_['text_cart'] = 'Ver el carro';
 $_['text_checkout'] = 'Pagar';
 $_['error_product'] = 'Aviso: ¡No se pudo encontrar el producto!';

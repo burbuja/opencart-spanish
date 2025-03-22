@@ -14,4 +14,4 @@ $_['help_address_format'] = 'Nombres = {firstname}<br/>Apellidos = {lastname}<br
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los formatos de dirección!';
 $_['error_name'] = '¡El nombre de formato de dirección debe tener entre 1 y 128 caracteres!';
 $_['error_default'] = 'Aviso: ¡No se puede eliminar este formato de dirección debido a que se encuentra asignado como el formato de dirección predeterminado de la tienda!';
-$_['error_country'] = 'Éxito: ¡No se puede eliminar este formato de dirección porque se encuentra asignado a %s países!';
+$_['error_country'] = 'Éxito: ¡No se puede eliminar este formato de dirección debido a que se encuentra asignado a %s países!';

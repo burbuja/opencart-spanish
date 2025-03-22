@@ -35,4 +35,4 @@ $_['error_warning'] = 'Aviso: ¡Por favor revisa cuidadosamente los errores del 
 $_['error_permission'] = 'Aviso: ¡No tienes permiso para modificar los planes de suscripción!';
 $_['error_name'] = '¡El nombre de plan de suscripción debe tener entre 3 y 255 caracteres!';
 $_['error_trial_duration'] = '¡La duración de la evaluación debe ser mayor a 0!';
-$_['error_product'] = 'Aviso: ¡No se puede eliminar este plan de suscripción porque se encuentra asignado a %s productos!';
+$_['error_product'] = 'Aviso: ¡No se puede eliminar este plan de suscripción debido a que se encuentra asignado a %s productos!';

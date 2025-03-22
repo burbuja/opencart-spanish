@@ -8,6 +8,7 @@ $_['text_edit'] = 'Editar categoría';
 $_['text_filter'] = 'Filtrar';
 $_['text_default'] = 'Predeterminado';
 $_['text_keyword'] = 'No uses espacios, en su lugar reemplaza los espacios por guiones y asegúrate de que el URL para SEO sea globalmente único.';
+$_['column_image'] = 'Imagen';
 $_['column_name'] = 'Nombre de categoría';
 $_['column_sort_order'] = 'Orden';
 $_['column_action'] = 'Acción';

@@ -9,4 +9,5 @@ $_['error_minimum'] = '¡El monto mínimo del pedido para %s es de %s!';
 $_['error_option'] = '¡No se pudo encontrar la opción!';
 $_['error_option_stock'] = '¡La opción no está disponible en la cantidad deseada o se encuentra agotada!';
 $_['error_required'] = '¡Se requiere %s!';
+$_['error_regex'] = '¡%s no es una entrada válida!';
 $_['error_subscription'] = '¡El plan de suscripción no es válido!';

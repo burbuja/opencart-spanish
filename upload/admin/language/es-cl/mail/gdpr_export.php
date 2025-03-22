@@ -23,4 +23,5 @@ $_['text_zone'] = 'Región o estado';
 $_['text_history'] = 'Historial de inicios de sesión';
 $_['text_ip'] = 'IP';
 $_['text_date_added'] = 'Fecha de alta';
+$_['text_contact'] = 'Para mayor información, puedes ponerte en contacto con el dueño de la tienda aquí:';
 $_['text_thanks'] = 'Gracias.';
