@@ -9,6 +9,7 @@ $_['text_add'] = 'Tu dirección ha sido agregada exitosamente';
 $_['text_edit'] = 'Se ha actualizado tu dirección exitosamente';
 $_['text_delete'] = 'Tu dirección ha sido eliminada exitosamente';
 $_['text_no_results'] = 'No tienes direcciones en tu cuenta.';
+$_['text_default'] = 'Predeterminado';
 $_['entry_firstname'] = 'Nombre';
 $_['entry_lastname'] = 'Apellidos';
 $_['entry_company'] = 'Empresa';
